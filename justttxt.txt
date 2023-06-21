@@ -1,0 +1,4554 @@
+"Naloxone"	"reverses antihypertensive effect of"	"clonidine"	
+
+"FK QUANT_S_1"	"increase blood pressure by"	"increasing ET-1 production"	
+
+"FK QUANT_S_1"	"increase blood pressure also by decreasing QUANT_O_1 synthesis in"	"vasculature"	
+
+"FK QUANT_S_1"	"increase"	"blood pressure"	
+
+"PG-9"	"represent"	"potential useful drug able to improve function of impaired cognitive processes"	
+
+"study"	"is"	"first"	
+
+"BDL treatments"	"produce different lobular distributions of"	"increased paracellular permeability"	
+
+
+"treatments"	"produce different lobular distributions of"	"increased paracellular permeability"	
+
+
+"impairment of hepatocyte TJs"	"occurs in liver lobule after"	"BDL"	
+
+"impairment of hepatocyte TJs"	"occurs"	"heterogenously"	
+
+"EE treatments"	"produce different lobular distributions of"	"increased paracellular permeability"	
+
+"renal allografts"	"be treated with tacrolimus for"	"QUANT_O_1 year"	
+
+"renal allografts"	"be treated with"	"tacrolimus"	
+
+"tacrolimus"	"is"	"FK506"	
+
+"chronic FK506 nephropathy"	"consists of"	"arteriolopathy manifesting as insudative hyalinosis of arteriolar wall"	
+
+"mild-type chronic FK506 nephropathy"	"is"	"condition"	
+
+
+"arteriolopathy"	"be manifesting as insudative hyalinosis of"	"arteriolar wall"	
+
+"that condition"	"lead to deterioration of"	"renal allograft function"	
+
+"Acetylsalicylic acid"	"appear to have cardioprotective effects when tested in"	"model"	
+
+"Acetylsalicylic acid"	"appear to have"	"cardioprotective effects"	
+
+"dipyridamole"	"appear to have cardioprotective effects when tested in"	"model"	
+
+"dipyridamole"	"appear to have"	"cardioprotective effects"	
+
+"hydrocortisone"	"appear to have cardioprotective effects when tested in"	"model"	
+
+"hydrocortisone"	"appear to have"	"cardioprotective effects"	
+
+"Alzheimer"	"has"	"disease"	
+
+"narrow therapeutic window"	"be observed with"	"haloperidol"	
+
+"narrow therapeutic window observed with haloperidol"	"apply to"	"other neuroleptics used in Alzheimer 's disease patients with psychosis"	
+
+"narrow therapeutic window observed with haloperidol"	"apply to"	"other neuroleptics used in Alzheimer 's disease patients with disruptive behaviors"	
+
+"other neuroleptics"	"be used in Alzheimer 's disease patients with"	"psychosis"	
+
+"other neuroleptics"	"be used in Alzheimer 's disease patients with"	"disruptive behaviors"	
+
+"Alzheimer"	"has disease patients with"	"psychosis"	
+
+"Alzheimer"	"has disease patients with"	"disruptive behaviors"	
+
+"incidence of specific adverse effects"	"differ among"	"QUANT_O_1 atypicals"	
+
+"severity"	"differ among"	"QUANT_O_1 atypicals"	
+
+"side effects"	"are"	"likely which most to lead to individual 's dissatisfaction before choosing antipsychotic for particular patient"	
+
+(the clinician, )
+"side effects"	"are"	"likely which most to lead to individual 's dissatisfaction"	
+
+(the clinician, )
+"side effects"	"are"	"likely which to lead to individual 's dissatisfaction before choosing antipsychotic for particular patient"	
+
+(the clinician, )
+"side effects"	"are"	"likely which to lead to individual 's dissatisfaction"	
+
+(the clinician, )
+"individual"	"has"	"dissatisfaction"	
+
+(the clinician, )
+"side effects"	"are"	"likely which most to lead to before choosing antipsychotic for particular patient"	
+
+(the clinician, )
+"side effects"	"are"	"likely which most to lead to"	
+
+(the clinician, )
+"side effects"	"are"	"likely which to lead to before choosing antipsychotic for particular patient"	
+
+(the clinician, )
+"side effects"	"are"	"likely which to lead to"	
+
+(the clinician, )
+"side effects"	"are"	"likely which most to lead to noncompliance before choosing antipsychotic for particular patient"	
+
+"side effects"	"are"	"likely which most to lead to noncompliance"	
+
+"side effects"	"are"	"likely which to lead to noncompliance before choosing antipsychotic for particular patient"	
+
+"side effects"	"are"	"likely which to lead to noncompliance"	
+
+"Choreoathetoid movements"	"be associated with"	"rapid adjustment to methadone"	
+
+"Possible underlying neurobiological phenomena"	"are discussed"	
+
+"Optimal control of absences"	"was achieved with"	"sodium valproate"	
+
+"Optimal control of absences"	"was achieved with lamotrigine or in"	"combination"	
+
+"Optimal control of absences"	"was achieved with ethosuximide alone or in"	"combination"	
+
+"Optimal control of absences"	"was achieved in"	"combination"	
+
+"primary pulmonary hypertension"	"be associated with appetite suppressants in"	"Belgium"	
+
+"Intake of appetite suppressants"	"accelerate progression of"	"disease"	
+
+"patient"	"has"	"cardiovascular medications"	
+
+(the temporal relationship of events, )
+"rapid systemic absorption of mepivacaine with adrenaline with patient 's cardiovascular medications"	"were responsible for"	"perioperative complications"	
+
+(the temporal relationship of events, )
+"rapid systemic absorption of mepivacaine with adrenaline with patient 's cardiovascular medications"	"were"	"responsible"	
+
+(the temporal relationship of events, )
+"rapid systemic absorption of mepivacaine with with patient 's cardiovascular medications"	"were responsible for"	"perioperative complications"	
+
+(the temporal relationship of events, )
+"rapid systemic absorption of mepivacaine with with patient 's cardiovascular medications"	"were"	"responsible"	
+
+(the temporal relationship of events, )
+"patient"	"has"	"cardiovascular medications"	
+
+(the response to treatment, )
+"rapid systemic absorption of mepivacaine with adrenaline with patient 's cardiovascular medications"	"were responsible for"	"perioperative complications"	
+
+(the response to treatment, )
+"rapid systemic absorption of mepivacaine with adrenaline with patient 's cardiovascular medications"	"were"	"responsible"	
+
+(the response to treatment, )
+"rapid systemic absorption of mepivacaine with with patient 's cardiovascular medications"	"were responsible for"	"perioperative complications"	
+
+(the response to treatment, )
+"rapid systemic absorption of mepivacaine with with patient 's cardiovascular medications"	"were"	"responsible"	
+
+(the response to treatment, )
+"rapid systemic absorption of mepivacaine with interaction of drugs with patient 's cardiovascular medications"	"were responsible for"	"perioperative complications"	
+
+"rapid systemic absorption of mepivacaine with interaction of drugs with patient 's cardiovascular medications"	"were"	"responsible"	
+
+"healthy adolescent"	"be receiving pethidine for"	"postoperative pain control"	
+
+"routine use of pethidine via PCA even for brief postoperative analgesia"	"be reconsidered"	
+
+"Repeated trimipramine"	"induces"	"dopamine D2/D3"	
+
+"Repeated trimipramine"	"induces"	"alpha1-adrenergic up-regulation"	
+
+"reuptake inhibition"	"is of"	"QUANT_O_1 importance to adaptive changes induced by repeated antidepressants"	
+
+"adaptive changes"	"be induced by"	"repeated antidepressants"	
+
+"it"	"illustrates derangements of thyroid function seen in pregnant women with eating disorders In"	"particular"	
+
+"it"	"illustrates"	"derangements of thyroid function seen in pregnant women with eating disorders"	
+
+"it"	"reminds"	"us"	
+
+"derangements of thyroid function"	"be seen in pregnant women with"	"eating disorders"	
+
+"cause for thyrotoxicosis"	"remains"	"explored"	
+
+"thyroxine abuse"	"be considered"	"obscure"	
+
+"thyroxine abuse"	"be considered"	
+
+"thyroxine abuse"	"explored"	
+
+"erythroblastocytopenia"	"be induced by"	"ceftriaxone"	
+
+"triad of side effects"	"has been reported widespread use of"	"agents"	
+
+"triad of side effects"	"has been reported in connection with beta lactam antibiotics widespread use of"	"agents"	
+
+"her"	"has"	"5-day immobilization"	
+
+"her"	"has"	"death"	
+
+"death"	"was caused by hypersensitivity to suxamethonium associated with"	"5-day immobilization"	
+
+"death"	"was caused by"	"hypersensitivity to suxamethonium"	
+
+"death"	"be associated with"	"5-day immobilization"	
+
+"Prilocaine"	"be preferable to"	"lidocaine"	
+
+"Prilocaine"	"be preferable for"	"short surgical procedures"	
+
+"Prilocaine"	"be preferable lower incidence of"	"TNSs"	
+
+"Prilocaine"	"be"	"preferable"	
+
+"it"	"has similar duration of"	"action"	
+
+"pencil-point needle"	"are employed"	"hyperbaric anaesthetic solution"	
+
+"slow injection rate"	"are employed"	"hyperbaric anaesthetic solution"	
+
+"localized high peak anaesthetic concentration"	"lead to"	"transient neurological deficit"	
+
+"low solution concentration"	"be preferred for unilateral spinal anaesthesia with"	"hyperbaric anaesthetic solution"	
+
+(we, )
+"low solution concentration"	"be preferred for"	"unilateral spinal anaesthesia"	
+
+(we, )
+"Long-term follow-up of patients"	"was"	"possible"	
+
+"PG-9"	"did impair mouse performance evaluated by"	"rota-rod test"	
+
+"PG-9"	"did impair mouse performance evaluated by"	"Animex apparatus"	
+
+"mouse performance"	"be evaluated by"	"rota-rod test"	
+
+"mouse performance"	"be evaluated by"	"Animex apparatus"	
+
+"dehydration"	"contribute to elevation of"	"plasma AVP"	
+
+(These results, )
+"dehydration"	"contribute to"	"upregulation of AVP gene expression in PVN"	
+
+"dehydration"	"contribute to"	"upregulation of AVP gene expression in SON of Li-induced diabetes insipidus rat"	
+
+"activation of visceral afferent inputs"	"contribute to elevation of"	"plasma AVP"	
+
+"activation of visceral afferent inputs"	"contribute to"	"upregulation of AVP gene expression in PVN"	
+
+"activation of visceral afferent inputs"	"contribute to"	"upregulation of AVP gene expression in SON of Li-induced diabetes insipidus rat"	
+
+"QUANT_S_1 patients"	"received"	"concurrent calcium channel blockers"	
+
+"QUANT_S_1 of QUANT_S_2 patients"	"died"	
+
+"QUANT_S_1 of QUANT_S_2 patients"	"alert clinicians to be"	"more cautious"	
+
+"QUANT_S_1 of QUANT_S_2 patients"	"alert clinicians to be"	"cautious when using these QUANT_O_1 drugs simultaneously"	
+
+"QUANT_S_1 of QUANT_S_2 patients"	"alert clinicians to be"	"cautious"	
+
+"leucovorin"	"is"	"MFL"	
+
+"Administration of regimen to breast cancer patients"	"requires"	"careful attention"	
+
+"breast cancer patients"	"have been treated by"	"chemotherapy"	
+
+"5-HT2 blockade obtained with risperidone at D2 occupancy rates of QUANT_S_1"	"does appear to protect against risk for"	"extrapyramidal side effects"	
+
+"above"	"does appear to protect against risk for"	"extrapyramidal side effects"	
+
+"it"	"is concluded that above"	"does not appear to protect against risk for extrapyramidal side effects Based on observations"	
+
+"it"	"is concluded that above"	"does not appear to protect against risk for extrapyramidal side effects"	
+
+"5-HT2 blockade"	"be obtained with risperidone at D2 occupancy rates of"	"QUANT_O_1"	
+
+"above"	"be obtained with risperidone at D2 occupancy rates of"	"QUANT_O_1"	
+
+"5-HT2 blockade"	"be obtained with"	"risperidone"	
+
+"above"	"be obtained with"	"risperidone"	
+
+"Bile duct hamartoma"	"be occurring in"	"association with long-term treatment with danazol"	
+
+"If patient develops liver mass because of non-specific clinical features may only way"	"be achieve"	"definitive diagnosis"	
+
+"If patient develops liver mass because of imaging appearances may only way"	"be achieve"	"definitive diagnosis"	
+
+"biopsy"	"be only way to achieve"	"definitive diagnosis"	
+
+"biopsy"	"be"	"only way"	
+
+"patient"	"develops liver mass because of"	"non-specific clinical features"	
+
+"patient"	"develops liver mass because of"	"imaging appearances"	
+
+"patient"	"develops"	"liver mass"	
+
+"hydrochlorofluorocarbons"	"be used as ozone-sparing substitutes of"	"chlorofluorocarbons"	
+
+"urgent need to develop safer alternatives"	"there is In"	"view of potentially widespread use of compounds"	
+
+"urgent need to develop safer alternatives"	"there is"	
+
+"urgent need"	"be develop"	"safer alternatives"	
+
+"QRS without preexcitation"	"be caused by"	"junctional escape"	
+
+"QRS without preexcitation caused by junctional escape"	"beats after verapamil of accessory pathway after catheter ablation"	"established frequent AVRT attack"	
+
+"QRS without preexcitation caused by junctional escape"	"beats after unidirectional"	"established frequent AVRT attack"	
+
+"QRS without preexcitation caused by junctional escape"	"beats"	"established frequent AVRT attack"	
+
+"nicotine"	"is involved"	
+
+"adverse effects"	"be seen with"	"relatively low-level cigarette exposures"	
+
+"Treatment strategies"	"be aimed at"	"avoiding retinal toxicity"	
+
+"Treatment strategies aimed at avoiding retinal toxicity"	"are discussed"	
+
+"side effects"	"are"	"likely generated superficially in skin In individuals"	
+
+"side effects"	"are generated In"	"individuals"	
+
+"side effects"	"are most generated superficially in"	"skin"	
+
+"side effects"	"are most"	"likely generated superficially"	
+
+"side effects"	"are generated in"	"skin"	
+
+"side effects"	"are"	"likely generated superficially"	
+
+"rat fetuses"	"be exposed to"	"calcium channel blockers"	
+
+"QUANT_S_1 agents"	"were associated with aortic arch branching variants although increased only for"	"Ro QUANT_O_1"	
+
+"QUANT_S_1 agents"	"were associated with aortic arch branching variants although increased only for"	"verapamil"	
+
+"QUANT_S_1 agents"	"were associated with"	"aortic arch branching variants"	
+
+"prolonged combination of QUANT_S_1 min of PGE1-induced hypotension"	"cause impairment of"	"hepatic function"	
+
+(The results, )
+"prolonged combination of QUANT_S_1 min of"	"cause impairment of"	"hepatic function"	
+
+(The results, )
+"prolonged combination of QUANT_S_1 min of moderate haemodilution"	"cause impairment of"	"hepatic function"	
+
+"Seizure"	"be resulting from"	"venlafaxine overdose"	
+
+"our"	"has"	"patient"	
+
+"venlafaxine overdose in patient"	"resulted in single episode of"	"generalized seizure"	
+
+"venlafaxine overdose in patient"	"elicited"	"QUANT_O_1 further sequelae"	
+
+"we"	"recommend to perform prospectively audiologic assessment in"	"sick preterm children"	
+
+"we"	"recommend to perform regularly audiologic assessment in"	"sick preterm children"	
+
+"we"	"recommend to perform"	"audiologic assessment in sick preterm children as hearing loss"	
+
+"we"	"recommend to perform audiologic assessment in"	"sick preterm children"	
+
+"disruption of blood-brain barrier during acute hypertension"	"is related to synthesis/release of bradykinin to activate"	"B2 receptors"	
+
+(These findings, )
+"disruption of blood-brain barrier during acute hypertension"	"is related to activate"	"B2 receptors"	
+
+(These findings, )
+"Fatal intracranial bleeding"	"be associated with prehospital use of"	"epinephrine"	
+
+"Epinephrine"	"has"	"proven role in cardiac arrest in prehospital care"	
+
+"use by paramedics in patients with suspected allergic reaction"	"be viewed with"	"caution"	
+
+"use by paramedics in patients with severe hypertension"	"be viewed with"	"caution"	
+
+"possible influence of hepatic damage upon development of valproate encephalopathy"	"is discussed"	
+
+"possible influence of hepatic damage upon development of valproate encephalopathy"	"is"	"mainly hyperammonemia"	
+
+"adult patients"	"be affected by"	"HUS"	
+
+"dialysis"	"be discontinued"	"prematurely"	
+
+"dialysis"	"be discontinued in adult patients affected by"	"HUS"	
+
+"bilateral nephrectomy for treatment of severe hypertension"	"be performed with"	"caution"	
+
+"bilateral nephrectomy for treatment of microangiopathic hemolytic anemia"	"be performed with"	"caution"	
+
+"Quantitative morphometric studies of cerebellum"	"provide"	"valuable insights into pathogenesis of cerebellar disorders"	
+
+"electroencephalographic picture"	"is seen in drug intoxication in absence of"	"significant hypoxaemia"	
+
+"behavioural picture"	"is seen in drug intoxication in absence of"	"significant hypoxaemia"	
+
+"electroencephalographic picture"	"is seen in"	"drug intoxication"	
+
+"behavioural picture"	"is seen in"	"drug intoxication"	
+
+"significant hypoxaemia"	"is"	"favourable outcome"	
+
+"liver transplant recipients"	"be receiving"	"tacrolimus"	
+
+"observed positive impact of nifedipine on reducing nephrotoxicity associated with tacrolimus in liver transplant recipients"	"be important factor in"	"selecting agent to treat hypertension in population"	
+
+"observed positive impact of nifedipine on reducing nephrotoxicity associated with tacrolimus in liver transplant recipients"	"be"	"important factor"	
+
+"selecting agent"	"be treat hypertension in"	"population"	
+
+"nephrotoxicity"	"be associated with tacrolimus in"	"liver transplant recipients"	
+
+"Lithium-associated cognitive deficits"	"be reduced by"	"switch to divalproex sodium"	
+
+"Lithium-associated functional deficits"	"be reduced by"	"switch to divalproex sodium"	
+
+"divalproex sodium"	"was superior alternative In"	"preliminary report"	
+
+"divalproex sodium"	"was loss of creativity In"	"preliminary report"	
+
+"divalproex sodium"	"was functional impairments In"	"preliminary report"	
+
+"divalproex sodium"	"was superior alternative to"	"lithium"	
+
+"divalproex sodium"	"was loss of creativity to"	"lithium"	
+
+"divalproex sodium"	"was functional impairments to"	"lithium"	
+
+"divalproex sodium"	"was superior alternative in"	"bipolar patients experiencing cognitive deficits"	
+
+"divalproex sodium"	"was loss of creativity in"	"bipolar patients experiencing cognitive deficits"	
+
+"divalproex sodium"	"was functional impairments in"	"bipolar patients experiencing cognitive deficits"	
+
+"divalproex sodium"	"was"	"superior alternative"	
+
+"divalproex sodium"	"was loss of"	"creativity"	
+
+"divalproex sodium"	"was"	"functional impairments"	
+
+"bipolar patients"	"be experiencing"	"cognitive deficits"	
+
+"interpeduncular nucleus"	"regulates nicotine 's effects on"	"free-field activity"	
+
+"nicotine"	"has effects on"	"free-field activity"	
+
+"We"	"conclude dampens nicotinic arousal mechanisms located elsewhere in"	"brain"	
+
+"interpeduncular nucleus"	"mediates nicotinic depression of"	"locomotor activity"	
+
+"interpeduncular nucleus"	"dampens nicotinic arousal mechanisms located elsewhere in"	"brain"	
+
+"Our"	"has"	"studies"	
+
+"MTX"	"be administered"	"jointly"	
+
+"5-FU"	"be administered"	"jointly"	
+
+"CY"	"be administered"	"jointly"	
+
+"nephrotoxicity of MTX administered jointly"	"is lower than in"	"monotherapy"	
+
+"nephrotoxicity of 5-FU"	"is lower than in"	"monotherapy"	
+
+"nephrotoxicity of CY"	"is lower than in"	"monotherapy"	
+
+"nephrotoxicity of MTX administered jointly"	"is"	"lower"	
+
+"nephrotoxicity of 5-FU"	"is"	"lower"	
+
+"nephrotoxicity of CY"	"is"	"lower"	
+
+"FK506"	"is"	"tacrolimus"	
+
+"FK506"	"does seem to cross-react with cyclosporin A In"	"experience"	
+
+"FK506"	"does seem to cross-react with"	"cyclosporin A"	
+
+(the literature, )
+"cyclosporin A"	"is"	"CyA"	
+
+"cyclosporin A"	"is"	"immuno-suppressive drug already known to induce MAHA"	
+
+"immuno-suppressive drug"	"be known to induce"	"MAHA"	
+
+"our"	"has"	"experience"	
+
+"effects"	"are mediated through"	"dopamine"	
+
+"effects"	"are mediated through"	"norepinephrine"	
+
+"effects"	"do require"	"carotid sinus baroreceptors"	
+
+"reduced heparan sulphate charge barrier/density"	"is found at lamina rara externa of glomerular basement membrane in streptozotocin-diabetic rats with"	"increased urinary albumin excretion"	
+
+"reduced heparan sulphate charge barrier/density"	"is found at lamina rara externa of"	"glomerular basement membrane"	
+
+"need"	"be consider acetaminophen in"	"patients with hypotension of unknown origin"	
+
+"clinicians"	"to consider acetaminophen in"	"patients with hypotension of unknown origin"	
+
+"clinicians"	"to consider"	"acetaminophen"	
+
+"habitual use of acetaminophen alone"	"increases risk of"	"ESRD"	
+
+"possibility that habitual use of acetaminophen alone increases risk of ESRD"	"has been demonstrated"	"clearly"	
+
+"possibility that habitual use of acetaminophen alone increases risk of ESRD"	"has been demonstrated"	
+
+"possibility that habitual use of acetaminophen alone increases risk of ESRD"	"be dismissed"	
+
+"Parkinson"	"has"	"disease"	
+
+"administration of low doses of beta-blockers"	"improve levodopa-induced choreic dyskinesia in"	"PD"	
+
+"administration of low doses of beta-blockers"	"improve levodopa-induced ballistic dyskinesia in"	"PD"	
+
+
+"administration of low doses of beta-blockers"	"improve levodopa-induced dyskinesia in"	"PD"	
+
+
+"Results"	"suggest dose-response effect for paclitaxel doses above QUANT_R_1 mg/m2"	"thus far"	
+
+"Results"	"suggest"	"QUANT_O_1 dose-response effect for paclitaxel doses above QUANT_O_2 mg/m2"	
+
+"patient"	"was treated with"	"corticosteroids"	
+
+"We"	"report"	"case of atracurium-related paralysis persisting for QUANT_O_1 hours in patient"	
+
+"case of atracurium-related paralysis"	"be persisting for QUANT_R_1 hours in"	"patient"	
+
+"case of atracurium-related paralysis"	"be persisting for"	"QUANT_O_1 hours"	
+
+"lidocaine"	"reduces"	"incidence of propofol injection pain in ambulatory patients"	
+
+"lidocaine"	"reduces"	"severity"	
+
+"thiopentone"	"reduces"	"severity"	
+
+"its"	"has"	"severity"	
+
+"This"	"be"	"particularly notable finding"	
+
+"This"	"be notable finding in"	"Asian people"	
+
+"further evaluation of VNB in combination therapy"	"is warranted"	"Given excellent tolerance profile"	
+
+"further evaluation of VNB in combination therapy"	"is warranted"	"Given low toxicity"	
+
+"further evaluation of VNB in combination therapy"	"is warranted"	
+
+"its"	"has"	"excellent tolerance profile"	
+
+"Sinus arrest"	"be associated with"	"continuous-infusion cimetidine"	
+
+"sinus arrest"	"be associated with"	"continuous-infusion cimetidine"	
+
+"This"	"is reported case of sinus arrest associated with"	"continuous-infusion cimetidine"	
+
+"This"	"is"	"first reported case"	
+
+"Parkinson"	"has"	"disease patients"	
+
+"possibility of clinically relevant dopamine-antagonistic capacity of fluoxetine in Parkinson 's disease patients"	"be considered"	
+
+"somatostatin analog"	"is"	"octreotide"	
+
+"It"	"is"	"important to follow changes of gallbladder function during long-term octreotide therapy of acromegalic patients"	
+
+"They"	"be observed"	"closely"	
+
+"They"	"be observed"	
+
+"They"	"be given reduced doses of"	"cimetidine"	
+
+"immunohistochemical changes of NFs"	"serve as"	"marker for axonal damage in QUANT_O_1 experimental traumatic"	
+
+"immunohistochemical changes of NFs"	"serve as"	"marker for axonal damage in ischemic"	
+
+"didanosine"	"is"	"ddI"	
+
+"zidovudine"	"is"	"AZT"	
+
+"QUANT_S_1 patients"	"developed glucose tolerance curves characteristic of"	"diabetes"	
+
+"these"	"were mild on"	"ceasing didanosine"	
+
+"these"	"were"	"mild"	
+
+"these"	"did require"	"treatment"	
+
+"these"	"returned to"	"normal"	
+
+"Sodium bicarbonate"	"alleviates"	"penile pain induced by intracavernous injections for erectile dysfunction"	
+
+"penile pain"	"be induced by intracavernous injections for"	"erectile dysfunction"	
+
+"medication"	"be overcome by"	"elevating pH to neutral level"	
+
+"penile pain following intracorporeal injections"	"is most"	"likely"	
+
+"penile pain following intracorporeal injections"	"is"	"due to acidity of medication"	
+
+"penile pain following intracorporeal injections"	"is"	"likely"	
+
+"region of cortex"	"represents"	"low frequencies"	
+
+"region of cortex"	"was affected by"	"cochlear hearing loss"	
+
+"Dup QUANT_S_1"	"prevents development of"	"puromycin aminonucleoside-induced nephrosis"	
+
+"results"	"suggest"	"possible involvement of renin-angiotensin system in development of puromycin aminonucleoside-induced nephrosis"	
+
+"Epidural blood flow during prostaglandin E1"	"induced"	"hypotension"	
+
+"Epidural blood flow during trimethaphan"	"induced"	"hypotension"	
+
+"PGE1"	"be preferable to"	"TMP"	
+
+(These results, )
+"PGE1"	"be preferable for hypotensive anaesthesia in"	"spinal surgery"	
+
+(These results, )
+"PGE1"	"be"	"preferable"	
+
+(These results, )
+"TMP"	"decreased"	"EBF"	
+
+(These results, )
+"effect"	"was less"	"pronounced"	
+
+"effect"	"was pronounced with"	"bepridil"	
+
+"effect"	"was"	"pronounced"	
+
+"convulsant activity of bupivacaine"	"was modified"	"significantly"	
+
+"convulsant activity of bupivacaine"	"was modified"	
+
+"calcium channel blockers"	"be obtain"	"bupivacaine-induced convulsions"	
+
+"calcium channel blockers"	"decreased time of latency to obtain"	"bupivacaine-induced convulsions"	
+
+"calcium channel blockers"	"decreased time of"	"latency"	
+
+"Nephrolithiasis"	"is complication of"	"acetazolamide"	
+
+"Nephrolithiasis"	"is"	"complication"	
+
+"Nephrolithiasis"	"does preclude"	"use"	
+
+"its"	"has"	"use"	
+
+"Our"	"has"	"results"	
+
+"addition of phenylephrine to nitroglycerin"	"is beneficial in"	"treatment of patients with acute myocardial infarction"	
+
+(Our results, )
+"addition of phenylephrine to nitroglycerin"	"is"	"beneficial"	
+
+(Our results, )
+"Further studies"	"are"	"necessary to determine exact extent of problem"	
+
+"Further studies"	"are"	"necessary to improve efficacy of diagnostic methods"	
+
+"Data from model"	"support mechanism involving nicotinic receptor blockade with"	"subsequent decreased fetal movement"	
+
+"mechanism"	"be involving nicotinic receptor blockade with"	"subsequent decreased fetal movement"	
+
+"angioedema"	"resolved after therapy with"	"intravenous steroids"	
+
+"angioedema"	"resolved after therapy with"	"diphenhydramine hydrochloride"	
+
+"comparison of frequency of adverse reactions to indocyanine green with previously reported frequency of such reactions to fluorescein sodium"	"indicated that"	"indocyanine green"	
+
+"safe as fluorescein for use in angiography"	"is"	
+
+"Clomipramine-induced sleep disturbance"	"does impair"	"prolactin-releasing action"	
+
+"its"	"has"	"prolactin-releasing action"	
+
+"presence of REM sleep"	"was shown to be determining factor for"	"secretory pulse amplitude"	
+
+"presence of REM sleep"	"was shown to be determining factor for"	"frequency"	
+
+"presence of REM sleep"	"was shown to be"	"determining factor"	
+
+"nocturnal values"	"were similar with"	"prior clomipramine ingestion"	
+
+"nocturnal values"	"were"	"similar"	
+
+"Erythema multiforme"	"be caused by"	"ampicillin"	
+
+"hypersensitivity myocarditis"	"be caused by"	"ampicillin"	
+
+"Hypersensitivity myocarditis"	"is rare manifestation of"	"allergy to penicillins"	
+
+"Hypersensitivity myocarditis"	"is dangerous manifestation of"	"allergy to penicillins"	
+
+"Hypersensitivity myocarditis"	"is"	"rare manifestation"	
+
+"Hypersensitivity myocarditis"	"is"	"dangerous manifestation"	
+
+"gall bladder stones"	"be associated with"	"octreotide"	
+
+"octreotide"	"induced gall stones In"	"conclusion"	
+
+"octreotide"	"induced"	"gall stones"	
+
+"QUANT_S_1 patients"	"have blocked cystic duct"	"presentation"	
+
+"QUANT_S_1 patients"	"have QUANT_R_1 gall stones containing calcium"	"presentation"	
+
+"QUANT_S_1 gall stones"	"be containing"	"calcium"	
+
+"study"	"supports"	"role of lipid peroxidation in mediating proteinuric injury in PAN nephropathy"	
+
+"results of case report"	"support"	"idea that in contrast with carbamazepine oxcarbazepine does not induce hepatic microsomal enzyme systems regulating inactivation of antipsychotic drugs"	
+
+"hepatic microsomal enzyme systems"	"be regulating inactivation of"	"antipsychotic drugs"	
+
+"Acute confusion"	"be induced by high-dose infusion of"	"5-fluorouracil"	
+
+"Acute confusion"	"be induced by high-dose infusion of"	"folinic acid"	
+
+"It"	"is"	"necessary that neurologists be fully aware of unusual complication"	
+
+"oncologists"	"be"	"aware"	
+
+"neurologists"	"be"	"aware"	
+
+"oncologists"	"be aware of"	"unusual complication"	
+
+"neurologists"	"be aware of"	"unusual complication"	
+
+"Crescentic fibrillary glomerulonephritis"	"be associated with intermittent rifampin therapy for"	"pulmonary tuberculosis"	
+
+"patient"	"be treated with"	"rifampin"	
+
+"report"	"documents"	"unusual occurrence of rapidly progressive glomerulonephritis with crescents in patient treated with rifampin"	
+
+"report"	"documents"	"unusual occurrence of rapidly progressive glomerulonephritis with fibrillar glomerulonephritis in patient treated with rifampin"	
+
+"Alprazolam"	"caused side-effects during"	"treatment"	
+
+"Alprazolam"	"caused adverse effects during"	"treatment"	
+
+"Alprazolam"	"caused"	"side-effects"	
+
+"Alprazolam"	"caused"	"adverse effects"	
+
+"QUANT_S_1 patients"	"were"	"willing to accept these"	
+
+"Vitamin B12 of ZDV therapy"	"does seem useful in preventing ZDV-induced myelotoxicity in"	"overall treated population"	
+
+"Vitamin B12 of ZDV therapy"	"does seem useful in"	"reducing"	
+
+"folinic acid supplementation"	"does seem useful in preventing ZDV-induced myelotoxicity in"	"overall treated population"	
+
+"folinic acid supplementation"	"does seem useful in"	"reducing"	
+
+"Vitamin B12 of ZDV therapy"	"does seem"	"useful"	
+
+"folinic acid supplementation"	"does seem"	"useful"	
+
+"beneficial effect in certain subgroups of patients"	"be excluded"	
+
+"our"	"has"	"knowledge"	
+
+"this"	"is first report To"	"knowledge"	
+
+"this"	"is first report of pseudo-allergy caused by"	"paramethasone"	
+
+"this"	"is"	"first report"	
+
+"pseudo-allergy"	"be caused by"	"paramethasone"	
+
+"o"	"is"	"-LSB- Na -RSB-"	
+
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"Toxic hepatitis"	"be induced by"	"antithyroid drugs"	
+
+"hepatotoxicity"	"be restricted to QUANT_O_1 class of"	"antithyroid agents"	
+
+"Cardiovascular complications"	"be associated with terbutaline treatment for"	"preterm labor"	
+
+"Potential mechanisms of pathophysiology"	"are discussed"	"briefly"	
+
+"Potential mechanisms of pathophysiology"	"are discussed"	
+
+"prolonged amiloride supplementation"	"result in"	"elevated lithium levels"	
+
+"It"	"be"	"hazardous"	
+
+"lithium-treated patients"	"be suffering from"	"polydipsia"	
+
+"acute amiloride administration to lithium-treated patients suffering from polydipsia"	"relieve"	"patients"	
+
+"polyuria"	"relieve"	"patients"	
+
+"who"	"developed"	"progressive cardiomyopathy"	
+
+"QUANT_S_1 years after receiving QUANT_S_2 mg/m2"	"is"	"late cardiotoxicity"	
+
+"one-half years after receiving QUANT_S_1 mg/m2"	"is"	"late cardiotoxicity"	
+
+"QUANT_S_1 mg/m2"	"represents"	"late"	
+
+"Abnormal movements"	"occurred in rats treated during"	"preweaning period"	
+
+"deafness"	"occurred in rats treated during"	"preweaning period"	
+
+"rats"	"be treated during"	"preweaning period"	
+
+"greatest sensitivities for abnormalities"	"occurred from QUANT_R_1 to 11-17 within"	"period"	
+
+"greatest sensitivities for abnormalities"	"occurred from"	"QUANT_O_1 to 11-17"	
+
+"cochlea"	"is more"	"sensitive"	
+
+"cochlea"	"is sensitive to"	"streptomycin"	
+
+"cochlea"	"is sensitive than site responsible for"	"dyskinesias"	
+
+"cochlea"	"is"	"sensitive"	
+
+"cells"	"has"	"functional integrity in terms of percentage of beating cells"	
+
+"addition of adenosine"	"increased adenylate charge"	"cells ' functional integrity in terms of percentage of beating cells In adriamycin-treated cells"	
+
+"addition of adenosine"	"increased adenylate charge"	"rate of contractions In adriamycin-treated cells"	
+
+"addition of adenosine"	"increased adenylate charge"	"cells ' functional integrity in terms of percentage of beating cells"	
+
+"addition of adenosine"	"increased adenylate charge rate of"	"contractions"	
+
+"gentamicin"	"was associated with"	"renal failure"	
+
+"sodium nitroprusside"	"be prevented by saralasin in"	"rats"	
+
+"This"	"demonstrates"	"participation of renin in antagonizing combined hypotensive effects of halothane"	
+
+"This"	"demonstrates"	"participation of renin in antagonizing combined hypotensive effects of SNP"	
+
+"Recognition of variant ventricular tachycardia"	"is"	"important"	
+
+"therapy"	"differs from that of"	"classic ventricular tachycardia"	
+
+"known tendency of busulfan"	"be induce cellular atypia in"	"other sites"	
+
+"known tendency of busulfan"	"be induce carcinoma in"	"other sites"	
+
+"periodic urinary cytology"	"is suggested in patients on long-term therapy In"	"view of known tendency of busulfan to induce cellular atypia in other sites"	
+
+"periodic urinary cytology"	"is suggested in patients on long-term therapy In"	"view of known tendency of busulfan to induce carcinoma in other sites"	
+
+"periodic urinary cytology"	"is suggested in patients on"	"long-term therapy"	
+
+"Factors affecting triamterene nephrolithiasis"	"are discussed"	
+
+"QUANT_S_1 previously reported cases"	"are reviewed"	
+
+"Factors"	"be affecting"	"triamterene nephrolithiasis"	
+
+"its"	"has"	"relationship to carbon tetrachloride-induced cirrhosis"	
+
+"optimal time for initial dose of carbon tetrachloride"	"was after QUANT_O_1 days on"	"phenobarbitone"	
+
+"procainamide"	"produce acquired prolonged Q-T syndrome with"	"polymorphous ventricular tachycardia"	
+
+"spinal cords of animals"	"did show"	"abnormal findings"	
+
+"animals"	"received"	"bupivacaine"	
+
+"animals"	"received"	"low pH normal saline"	
+
+"animals"	"received"	"normal saline"	
+
+"low pH normal saline"	"is"	"pH QUANT_O_1"	
+
+"Hysterosalpingography"	"was performed on in"	"QUANT_O_1 instance was reflected by gross appearance of uterine cavity found in surgical specimen"	
+
+"Hysterosalpingography"	"was performed on"	"abnormal x-ray film was reflected by gross appearance of uterine cavity found in surgical specimen"	
+
+"patients"	"was reflected by"	"gross appearance of uterine cavity found in surgical specimen"	
+
+"in QUANT_S_1 instance"	"was reflected by"	"gross appearance of uterine cavity found in surgical specimen"	
+
+"abnormal x-ray film"	"was reflected by"	"gross appearance of uterine cavity found in surgical specimen"	
+
+"uterine cavity"	"be found in"	"surgical specimen"	
+
+"Amiodarone"	"be used with caution during"	"long-term oral therapy in patients with clear intraventricular conduction defects"	
+
+"Amiodarone"	"be used with"	"caution"	
+
+"high cimetidine levels alone"	"do induce"	"dementia"	
+
+"data"	"be establishing"	"DES-induced tumor as model for study of PRL cellular control mechanisms"	
+
+"data"	"be establishing"	"DES-induced tumor"	
+
+"data"	"extend findings of other investigators"	"further establishing DES-induced tumor as model for study of PRL cellular control mechanisms"	
+
+"data"	"extend findings of"	"other investigators"	
+
+"hypertension after chronic intrarenal noradrenaline infusion"	"is produced by relatively higher levels of"	"circulating noradrenaline"	
+
+(These results, )
+"hypertension after chronic intrarenal noradrenaline infusion"	"is produced"	
+
+(These results, )
+"hypertension after chronic intrarenal noradrenaline infusion"	"is produced by triggering of"	"additional intrarenal pressor mechanism"	
+
+"caution"	"be exercised"	
+
+(It, )
+"concentration of ethanol diluent"	"was lowered"	
+
+"case of tardive dyskinesia"	"be caused by"	"metoclopramide"	
+
+"Attention to possible induction of specific tardive dyskinesia"	"is called for in use of"	"drug"	
+
+"treatment with high doses of D-pen"	"induce fibroproliferative response in rat aorta by"	"inhibitory effect on cross-linking of collagen"	
+
+"treatment with high doses of D-pen"	"induce fibroproliferative response in rat aorta by"	"inhibitory effect on cross-linking of elastin"	
+
+"treatment with high doses of D-pen"	"induce fibroproliferative response in"	"rat aorta"	
+
+"beneficial effect of Adriamycin"	"appears"	"obvious"	
+
+"beneficial effect of Adriamycin"	"be related to drug itself early instillations after"	"TUR"	
+
+"beneficial effect of Adriamycin"	"be related to drug itself repeated instillations after"	"TUR or both"	
+
+"beneficial effect of Adriamycin"	"be related to drug itself early instillations after"	"both"	
+
+"beneficial effect of Adriamycin"	"be related early instillations after"	"TUR"	
+
+"beneficial effect of Adriamycin"	"be related repeated instillations after"	"TUR or both"	
+
+"beneficial effect of Adriamycin"	"be related early instillations after"	"both"	
+
+"quaternary ammonium antiarrhythmic agent"	"is"	"UM-272"	
+
+"area under plasma concentration time curve at QUANT_S_1 min"	"was greater than for"	"oral drug suggesting existence of absorption-limiting process in intestine"	
+
+"area under plasma concentration time curve at QUANT_S_1 min"	"was"	"greater suggesting existence of absorption-limiting process in intestine"	
+
+"area under plasma concentration time curve at QUANT_S_1 min"	"providing"	"alternate form of administration for quaternary drugs"	
+
+"Such treatment"	"did diminish ADR antitumor activity in"	"L1210 leukemia"	
+
+"Such treatment"	"did diminish ADR antitumor activity in"	"Ehrlich ascites tumor"	
+
+"Studies"	"be dealing with"	"myocardial infarction"	
+
+"Studies dealing with myocardial infarction"	"are more"	"informative"	
+
+"Studies dealing with myocardial infarction"	"are informative when dealt with"	"age"	
+
+"Studies dealing with myocardial infarction"	"are"	"informative"	
+
+"Ebstein"	"has"	"anomaly"	
+
+"newborns"	"be exposed to lithium during"	"gestation"	
+
+"newborns"	"be exposed to"	"lithium"	
+
+"Cross-sectional echocardiographic screening of newborns exposed to lithium during gestation"	"provide"	"highly accurate noninvasive assessment of presence of lithium-induced cardiac malformations"	
+
+"Cross-sectional echocardiographic screening of newborns exposed to lithium during gestation"	"provide accurate noninvasive assessment of"	"absence"	
+
+"dacarbazine therapy for melanoma"	"is"	"DTIC"	
+
+"Published cases from literature"	"are reviewed"	
+
+"pertinent features"	"be discussed"	
+
+"glycopyrrolate QUANT_S_1 micrograms kg-1"	"precede induction of"	"anaesthesia"	
+
+"atropine"	"precede induction of"	"anaesthesia"	
+
+"glycopyrrolate QUANT_S_1 micrograms kg-1"	"precede induction of anaesthesia in"	"children"	
+
+"atropine"	"precede induction of anaesthesia in"	"children"	
+
+"repeated administration of suxamethonium"	"is anticipated"	
+
+"Accumulation of drugs"	"was reflected in"	"prolonged behavioral impairment"	
+
+"Dothiepin"	"was found to be"	"effective antidepressant drug associated with fewer side effects than amitriptyline in treatment of depressed outpatients"	
+
+"Dothiepin"	"was found to be"	"effective antidepressant drug"	
+
+"to effective antidepressant drug"	"be associated with"	"fewer side effects than amitriptyline in treatment of depressed outpatients"	
+
+"acetaminophen"	"antagonizes actions of caffeine in CNS"	"mechanism"	
+
+"mechanism"	"remains"	"unknown"	
+
+"factors"	"be related to clinical presentation of"	"neuropathies"	
+
+"factors"	"be related to"	"pathogenesis"	
+
+"QUANT_S_1 of factors related to clinical presentation of neuropathies"	"are discussed"	"briefly"	
+
+"QUANT_S_1 of factors related to pathogenesis"	"are discussed"	"briefly"	
+
+"QUANT_S_1 of factors related to clinical presentation of neuropathies"	"are discussed"	
+
+"QUANT_S_1 of factors related to pathogenesis"	"are discussed"	
+
+"doses of vitamin D3"	"prevent"	"milk fever"	
+
+"doses of vitamin D3"	"prevent"	"doses"	
+
+"milk fever"	"induce"	"milk fever"	
+
+"doses"	"induce"	"milk fever"	
+
+"vitamin D3"	"be used to prevent"	"milk fever when injected QUANT_O_1 weeks"	
+
+"vitamin D3"	"be used to prevent"	"milk fever"	
+
+"heart size"	"increased in placebo group After"	"re-infarction"	
+
+"heart size"	"increased in"	"placebo group"	
+
+"heart size"	"remained unchanged in"	"timolol group"	
+
+"heart size"	"remained"	"unchanged"	
+
+"Previously recognized side effects"	"is"	"particularly tremor"	
+
+"Previously recognized side effects"	"is"	"gastrointestinal problems"	
+
+"Previously recognized side effects"	"were more"	"frequent"	
+
+"Previously recognized side effects"	"were frequent in"	"mexiletine group"	
+
+"Previously recognized side effects"	"were frequent than in"	"placebo group"	
+
+"Previously recognized side effects"	"were"	"frequent"	
+
+"Thrombotic microangiopathy"	"be associated with"	"antineoplastic chemotherapy"	
+
+"renal failure"	"be associated with"	"antineoplastic chemotherapy"	
+
+"renal tissue"	"is examined"	
+
+"peripheral blood smear"	"is examined"	
+
+"renal failure"	"be ascribed to"	"cisplatin nephrotoxicity"	
+
+"renal failure"	"be ascribed to"	"anemia"	
+
+"renal failure"	"be ascribed to"	"thrombocytopenia to drug-induced bone marrow suppression"	
+
+"Diagnosis of potentially fatal complication"	"missed if"	"peripheral blood smear is not examined"	
+
+"sulphasalazine"	"be"	"teratogenic"	
+
+(it, )
+"drug"	"was"	"present"	
+
+"drug"	"was present in"	"measurable quantities"	
+
+"drug"	"was present after"	"QUANT_O_1 h"	
+
+"drug"	"was present even with"	"smallest dose"	
+
+"Galanthamine hydrobromide in treatment of central effects of scopolamine"	"is"	"longer acting anticholinesterase drug"	
+
+"scopolamine"	"is"	"Hyoscine"	
+
+"studies into dose necessary to combating scopolamine intoxication"	"are indicated"	"However"	
+
+"studies into dose necessary to combating scopolamine intoxication"	"are indicated"	
+
+"liver"	"be associated with"	"diethylstilbestrol"	
+
+"intraarterial lesions"	"represent"	"independent primary tumors"	
+
+"possibility that intraarterial lesions might represent independent primary tumors"	"is considered"	
+
+"Liver biopsies"	"be undertaken at"	"regular intervals"	
+
+"structural liver damage"	"be detected at"	"early stage"	
+
+"structural liver damage"	"be detected at"	"reversible stage"	
+
+"Total fasciculation scores in 30-mg bolus group"	"were"	"different"	
+
+"5-mg s-1"	"were"	"different"	
+
+"5-mg s-1 20-mg s-1 infusion groups"	"were"	"different"	
+
+"hepatic injury"	"be induced by"	"methyldopa"	
+
+"causal relationship between methyldopa and hepatic dysfunction"	"was proved with recurrence of hepatitis within QUANT_R_1 weeks of re-exposure to drug In"	"latter patient"	
+
+"causal relationship between methyldopa and hepatic dysfunction"	"was proved with recurrence of hepatitis within QUANT_R_1 weeks of re-exposure to drug in"	"QUANT_O_1 others"	
+
+"causal relationship between methyldopa and hepatic dysfunction"	"was proved with"	"recurrence of hepatitis within QUANT_O_1 weeks of re-exposure to drug"	
+
+"nonsteroidal anti-inflammatory agents"	"interfere with"	"compensatory mechanism"	
+
+"nonsteroidal anti-inflammatory agents"	"cause"	"acute renal failure"	
+
+"they"	"be used with caution in such patients"	"may cause acute renal failure"	
+
+"they"	"be used with caution in"	"such patients"	
+
+"Further studies of specifically elderly patients"	"are required to establish safer guidelines for"	"drug therapy"	
+
+"Further studies of specifically elderly patients"	"are required to establish more appropriate guidelines for"	"drug therapy"	
+
+"Reduction in dosage of amiodarone"	"resulted in disappearance of"	"sinoatrial block"	
+
+"Reduction in dosage of amiodarone"	"resulted in persistence of"	"asymptomatic sinus bradycardia"	
+
+"Review of cases"	"indicates"	"need for early diagnosis of amiodarone pneumonitis to ensure full recovery"	
+
+"Review of cases"	"indicates immediate withdrawal of"	"amiodarone"	
+
+"Review of cases"	"indicates"	"prompt"	
+
+"Review of cases"	"indicates"	"continued steroid therapy"	
+
+"Review of previously reported cases"	"indicates"	"need for early diagnosis of amiodarone pneumonitis to ensure full recovery"	
+
+"Review of previously reported cases"	"indicates immediate withdrawal of"	"amiodarone"	
+
+"Review of previously reported cases"	"indicates"	"prompt"	
+
+"Review of previously reported cases"	"indicates"	"continued steroid therapy"	
+
+"need for early diagnosis of amiodarone pneumonitis"	"be ensure"	"full recovery"	
+
+"immediate withdrawal of amiodarone"	"be ensure"	"full recovery"	
+
+"prompt"	"be ensure"	"full recovery"	
+
+"continued steroid therapy"	"be ensure"	"full recovery"	
+
+"it"	"is characterized by severe pain in"	"inguinal region"	
+
+"it"	"varying degrees of"	"motor"	
+
+"it"	"varying degrees of"	"sensory impairment"	
+
+"Anticoagulant-induced femoral nerve palsy"	"represents most common form of"	"warfarin-induced peripheral neuropathy"	
+
+"rheumatoid arthritis"	"be exposed to"	"different treatment regimens"	
+
+"immunosuppressive drugs"	"is"	"particularly alkylating agents"	
+
+"use of immunosuppressive drugs in treatment of rheumatoid arthritis"	"be reserved for patients with"	"severe progressive disease"	
+
+"use of immunosuppressive drugs in treatment of rheumatoid arthritis"	"be reserved for patients with"	"life-threatening complications"	
+
+"Data on possible increased risk of malignancy in rheumatoid arthritis"	"are being collected"	"still"	
+
+"Data on possible increased risk of malignancy in rheumatoid arthritis"	"are being collected"	
+
+"further information"	"is"	"available"	
+
+"pharmacodynamic properties of cyclosporin A"	"be confined to suppression of"	"normal T-cell functions"	
+
+"pharmacodynamic properties of cyclosporin A"	"be confined"	"strictly"	
+
+"High-dose intravenous methotrexate"	"is effective treatment for induction of"	"remission"	
+
+"High-dose intravenous methotrexate"	"is effective treatment after meningeal relapse in"	"acute lymphoblastic leukemia"	
+
+"High-dose intravenous methotrexate"	"is"	"effective treatment"	
+
+"young woman"	"suffered cerebral infarction after taking single oral dose of"	"PPA"	
+
+"young woman"	"suffered"	"cerebral infarction"	
+
+"We"	"report case of"	"young woman"	
+
+"amphotericin in setting of reduced effective arterial volume"	"activate tubuloglomerular feedback"	"thereby contributing to acute renal failure"	
+
+"amphotericin in setting of reduced effective arterial volume"	"activate"	"tubuloglomerular feedback"	
+
+"amphotericin in setting of reduced effective arterial volume"	"be contributing to"	"acute renal failure"	
+
+"amphotericin in setting of reduced effective arterial volume"	"be contributing"	"thereby"	
+
+"Decompression"	"were performed with good subsequent recovery of"	"function"	
+
+"neurolysis"	"were performed with good subsequent recovery of"	"function"	
+
+"Physicians"	"prescribe"	"molindone"	
+
+"Physicians"	"be aware of"	"reaction"	
+
+"Physicians"	"be"	"aware"	
+
+"muscular rigidity"	"be produced by morphine in"	"rats"	
+
+"dopaminergic activation"	"be observed in animals of"	"AS/KS group"	
+
+"rapid alternations of rigidity"	"be due to"	"rapid shifts in predominance of QUANT_O_1 DA-innervated structures"	
+
+"signs of dopaminergic activation observed in animals of AS/KS group"	"be due to"	"rapid shifts in predominance of QUANT_O_1 DA-innervated structures"	
+
+"rapid alternations of rigidity"	"be"	"due"	
+
+"signs of dopaminergic activation observed in animals of AS/KS group"	"be"	"due"	
+
+"Myasthenia gravis"	"be caused by penicillamine therapy for"	"rheumatoid arthritis"	
+
+"Myasthenia gravis"	"be caused by chloroquine therapy for"	"rheumatoid arthritis"	
+
+"acetylcholine receptor antibodies"	"were"	"detectable"	
+
+"time course"	"was consistent with"	"autoimmune process"	
+
+"time course"	"was"	"consistent"	
+
+"Discontinuance of effective chemotherapy in patient during partial remission"	"resulted in"	"fatal disease progression"	
+
+"brain"	"be sampled"	"shortly"	
+
+"spinal cord"	"be sampled"	"shortly"	
+
+"Mipafox exposure"	"predict neuropathic damage in"	"rats"	
+
+"possible contribution of triazolo group to changes in affective status"	"is discussed"	
+
+"patients"	"be subjected to surgery for"	"cerebral aneurysms"	
+
+"changes"	"offer protection to brain tissue during periods of"	"induced hypotension"	
+
+"changes"	"offer"	"protection to brain tissue"	
+
+"We"	"conclude"	"thus provides useful model for studying mechanisms of disorders"	
+
+"administration of high doses of cefonicid to dogs"	"induce"	"hematotoxicity similar to cephalosporin-induced blood dyscrasias described in man"	
+
+"administration of high doses of cefazedone to dogs"	"induce"	"hematotoxicity similar to cephalosporin-induced blood dyscrasias described in man"	
+
+"administration of high doses of cefonicid to dogs"	"provides"	"useful model for studying mechanisms of disorders"	
+
+"administration of high doses of cefazedone to dogs"	"provides"	"useful model for studying mechanisms of disorders"	
+
+"cephalosporin-induced blood dyscrasias"	"be described in"	"man"	
+
+"areas"	"are major sites of action of"	"calcitonin"	
+
+"areas"	"are major sites in"	"inhibiting amphetamine-induced locomotor activity"	
+
+"areas"	"are"	"major sites"	
+
+"calcitonin"	"is most"	"effective areas"	
+
+"calcitonin"	"is"	"effective areas"	
+
+"treatment"	"was"	"successful"	
+
+"Hyperkalemia"	"be associated with"	"sulindac therapy"	
+
+"sulindac"	"be associated initial hopes with adverse renal effects of"	"other NSAID"	
+
+"sulindac"	"be associated"	"initial hopes"	
+
+"initial hopes"	"are"	"justified"	
+
+"Most side effects"	"were"	"mild"	
+
+"Most side effects"	"were"	"related to GI tract"	
+
+"patient"	"had"	"QUANT_O_1 apparent associated conditions"	
+
+"QUANT_S_1 apparent associated conditions"	"have predisposed him to development of"	"bradyarrhythmias"	
+
+"QUANT_S_1 apparent associated conditions"	"have predisposed"	"him"	
+
+"this"	"represented"	"true idiosyncrasy to lidocaine"	
+
+"patients"	"be receiving"	"deferoxamine therapy"	
+
+"Serial audiograms"	"be performed QUANT_R_1 months in"	"those"	
+
+"Serial audiograms"	"be performed QUANT_R_1 months without"	"problems"	
+
+"Serial audiograms"	"be performed QUANT_R_1 months without"	"more frequently in young patients with normal serum ferritin values"	
+
+"Serial audiograms"	"be performed"	"QUANT_O_1 months"	
+
+"prolonged cholestasis"	"follow"	"troleandomycin-induced acute hepatitis"	
+
+"QUANT_S_1 differences"	"were observed with"	"respect to side effects"	
+
+"QUANT_S_1 differences"	"were observed with"	"respect to general tolerability"	
+
+"Severe complications of antianginal drug therapy in patient"	"identified as poor metabolizer of"	"metoprolol"	
+
+"Severe complications of antianginal drug therapy in patient"	"identified as poor metabolizer of"	"propafenone"	
+
+"Severe complications of antianginal drug therapy in patient"	"identified as poor metabolizer of"	"diltiazem"	
+
+"Severe complications of antianginal drug therapy in patient"	"identified as poor metabolizer of"	"sparteine"	
+
+"coadministration of frequently used drugs"	"is expected to be"	"especially harmful"	
+
+"coadministration of frequently used drugs"	"is expected to be"	"harmful in subgroup of patients"	
+
+"coadministration of frequently used drugs"	"is expected to be"	"harmful"	
+
+"coadministration of frequently used drugs"	"be"	"especially harmful"	
+
+"coadministration of frequently used drugs"	"be"	"harmful in subgroup of patients"	
+
+"coadministration of frequently used drugs"	"be"	"harmful"	
+
+"infection"	"is"	"present"	
+
+"infection"	"is present in individuals of"	"ethnic backgrounds"	
+
+"ethnic backgrounds"	"have increased prevalence of"	"hemoglobin E."	
+
+"influx of Southeast Asians into United States"	"is"	"oxidant medications"	
+
+"influx of Southeast Asians into United States"	"be used with"	"caution"	
+
+"paracetamol"	"Does cause"	"urothelial cancer"	
+
+"paracetamol"	"Does cause"	"renal papillary necrosis"	
+
+"we"	"were"	"unable to substantiate increased risk from paracetamol consumption for renal papillary necrosis By contrast"	
+
+"we"	"were"	"unable to substantiate QUANT_O_1 of cancers By contrast"	
+
+"we"	"were"	"unable to substantiate increased risk from paracetamol consumption for renal papillary necrosis"	
+
+"we"	"were"	"unable to substantiate QUANT_O_1 of cancers"	
+
+"suggestion of association with cancer of ureter"	"there was"	
+
+"Marital unhappiness"	"was associated with"	"arthritis"	
+
+"Marital unhappiness"	"was associated with"	"sexual dysfunction"	
+
+"patient"	"recovered"	
+
+"Use of verapamil in combination with carbamazepine"	"be avoided"	"either"	
+
+"Use of verapamil in combination with carbamazepine"	"be avoided"	
+
+"Use of verapamil in combination with carbamazepine"	"prescribed with appropriate adjustment of"	"carbamazepine dose"	
+
+"Use of verapamil in combination with carbamazepine"	"prescribed"	"only"	
+
+"phenylephrine"	"is"	"alpha-adrenergic vasopressor"	
+
+"use of phenylephrine"	"be treat hypotensive patients with"	"tachycardia"	
+
+"Systolic pressure variation"	"is greater during"	"hemorrhage"	
+
+"Systolic pressure variation"	"is greater than during sodium nitroprusside-induced hypotension in"	"ventilated dogs"	
+
+"Systolic pressure variation"	"is"	"greater"	
+
+"They"	"are more"	"important"	
+
+"They"	"are important during"	"absolute hypovolemia"	
+
+"They"	"are important than during"	"deliberate hypotension"	
+
+"They"	"are"	"important"	
+
+"CPAP"	"is"	"QUANT_O_1 cm H2O"	
+
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"patients on 5-FU treatment"	"be under"	"close supervision"	
+
+"treatment"	"be discontinued if"	"tachyarrhythmia is observed"	
+
+"chest pain"	"is observed"	
+
+"tachyarrhythmia"	"is observed"	
+
+"involvement of metronidazole in aetiology of haemolytic-uraemic syndrome"	"is established"	"firmly"	
+
+"action of drug in sensitizing tissues to oxidation injury"	"suggest"	"possible link between metronidazole treatment and QUANT_O_1 cases of haemolytic-uraemic syndrome"	
+
+"reported evidence of oxidation changes in haemolytic-uraemic syndrome"	"suggest"	"possible link between metronidazole treatment and QUANT_O_1 cases of haemolytic-uraemic syndrome"	
+
+"Possible mechanisms"	"are discussed"	
+
+"Possible mechanisms"	"involve"	"verapamil-related increase in platelet for catecholamines"	
+
+"Possible mechanisms"	"involve"	"verapamil-related increase in vascular alpha 2-adrenoreceptor affinity for catecholamines"	
+
+"other opiates"	"are used in"	"anesthetic management of patients with ICP problems"	
+
+"Glyburide"	"produce acute hepatitis-like illness in"	"QUANT_O_1 persons"	
+
+"Glyburide"	"produce"	"acute hepatitis-like illness"	
+
+"Hepatic reactions"	"be associated with ketoconazole in"	"United Kingdom"	
+
+"Clinical monitoring at regular intervals for evidence of hepatitis"	"is advised during long term treatment with ketoconazole to prevent"	"possible serious hepatic injury"	
+
+"biochemical monitoring at regular intervals for evidence of hepatitis"	"is advised during long term treatment with ketoconazole to prevent"	"possible serious hepatic injury"	
+
+"Clinical monitoring at regular intervals for evidence of hepatitis"	"is advised to prevent"	"possible serious hepatic injury"	
+
+"biochemical monitoring at regular intervals for evidence of hepatitis"	"is advised to prevent"	"possible serious hepatic injury"	
+
+"wider use"	"confirms"	"safety profile"	
+
+"their"	"has"	"safety profile"	
+
+"they"	"gain"	"increasing importance in therapeutic approach to hypercholesterolaemia"	
+
+"they"	"gain"	"increasing importance in therapeutic approach to consequences"	
+
+"its"	"has"	"consequences"	
+
+"its"	"has"	"prolonged use"	
+
+"This"	"indicates"	"reversibility in captopril-induced renal failure even after prolonged use"	
+
+"QUANT_S_1 organic damage"	"occurs to"	"glomerular arterioles following chronic ACE inhibition"	
+
+(This, )
+"catalepsy"	"be induced by"	"delta 9-tetrahydrocannabinol"	
+
+"noradrenergic neurons"	"have important role in"	"manifestation of catalepsy induced by THC"	
+
+"noradrenergic neurons"	"have"	"important role"	
+
+"catalepsy"	"be induced by"	"THC"	
+
+"dopaminergic neurons"	"are important in catalepsy induced by"	"haloperidol"	
+
+"dopaminergic neurons"	"are"	"important"	
+
+"catalepsy"	"be induced by"	"haloperidol"	
+
+"delayed feedback process"	"is mediated by modulation of"	"irCRF release"	
+
+"studies"	"provide"	"further evidence for strong central component of delayed feedback process"	
+
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"Epicardial coronary collateral vessels"	"were demonstrated in"	"QUANT_O_1 patients"	
+
+"steal phenomenon"	"be mechanism of"	"dipyridamole-induced ischemia observed"	
+
+"steal phenomenon"	"be"	"mechanism"	
+
+"dipyridamole-induced ischemia"	"be observed"	
+
+"treatment with CBZ"	"had"	"QUANT_O_1 apparent adverse effect on folate concentrations in rat"	
+
+"folate concentration in plasma at QUANT_S_1 weeks of treatment"	"be increased in liver after QUANT_O_1 weeks of"	"treatment"	
+
+"folate concentration in plasma at QUANT_S_1 weeks of treatment"	"be increased in"	"liver"	
+
+"folate concentration in"	"be increased plasma at QUANT_O_1 weeks of"	"treatment"	
+
+"folate concentration in"	"be increased"	"plasma"	
+
+"Physicians"	"be aware of signs of"	"sulfasalazine-induced lupus syndrome"	
+
+"Physicians"	"be"	"aware"	
+
+"Physicians"	"use sulfasalazine to treat patients with"	"inflammatory bowel disease"	
+
+"Physicians"	"use"	"sulfasalazine"	
+
+"who"	"be treat patients with"	"inflammatory bowel disease"	
+
+"increase in volume density of secretory granules"	"was determined by morphometric analysis"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"decrease in volume densities of rough endoplasmic reticulum"	"was determined by morphometric analysis"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"decrease in volume densities of microtubules"	"was determined by morphometric analysis"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"increase in volume density of secretory granules"	"was determined"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"decrease in volume densities of rough endoplasmic reticulum"	"was determined"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"decrease in volume densities of microtubules"	"was determined"	"suggesting bringing about disturbance of prolactin secretion"	
+
+"bromocriptine"	"inhibits"	"protein synthesis"	
+
+"bromocriptine"	"bringing about disturbance of"	"prolactin secretion"	
+
+"Use of flestolol in critical care setting"	"is undergoing"	"investigation"	
+
+"Sodium status"	"influences chronic amphotericin B nephrotoxicity in"	"rats"	
+
+"reductions in creatinine clearance after chronic amphotericin B administration"	"were enhanced by salt depletion In"	"conclusion"	
+
+"reductions in renal amphotericin B accumulation after chronic amphotericin B administration"	"were enhanced by salt depletion In"	"conclusion"	
+
+"reductions in creatinine clearance after chronic amphotericin B administration"	"were enhanced by"	"salt depletion"	
+
+"reductions in renal amphotericin B accumulation after chronic amphotericin B administration"	"were enhanced by"	"salt depletion"	
+
+"reductions in creatinine clearance after chronic amphotericin B administration"	"attenuated by sodium loading in"	"rats"	
+
+"reductions in renal amphotericin B accumulation after chronic amphotericin B administration"	"attenuated by sodium loading in"	"rats"	
+
+"labetalol"	"offers advantages over"	"nitroprusside"	
+
+"labetalol"	"offers"	"advantages"	
+
+"Stroke"	"be associated with"	"cocaine use"	
+
+"apparent incidence of stroke related to cocaine use"	"is increasing"	
+
+"cocaine-associated stroke"	"occurs in"	"young adults"	
+
+"stroke"	"follow QUANT_O_1 route of"	"cocaine administration"	
+
+"stroke after cocaine use"	"is associated with"	"intracranial aneurysms"	
+
+"stroke after cocaine use"	"is associated with"	"arteriovenous malformations"	
+
+"frequency of intracranial hemorrhage"	"exceeds that of cerebral infarction in"	"cocaine-associated stroke"	
+
+"frequency of intracranial hemorrhage"	"exceeds that of"	"cerebral infarction"	
+
+"angiotensin"	"be converting enzyme on"	"pulmonary insufficiency due to intravascular coagulation in rat"	
+
+"angiotensin"	"be converting enzyme on"	"renal insufficiency due to intravascular coagulation in rat"	
+
+"enzyme"	"is"	"Captopril"	
+
+"thus less kidney damage"	"be produced"	
+
+"Captopril"	"be diminishing"	"aggregation of fibrin monomers in glomeruli"	
+
+"Captopril"	"reduce increase in glomerular filtration by"	"same mechanism"	
+
+"Captopril"	"reduce increase in glomerular filtration"	"thereby diminishing aggregation of fibrin monomers in glomeruli"	
+
+"Captopril"	"reduce increase in"	"glomerular filtration"	
+
+"glomerular filtration"	"is known to occur after injection of"	"thrombin"	
+
+"less fibrin"	"be deposited"	
+
+"Our"	"has"	"findings"	
+
+"long-term treatment with high doses of ketoconazole"	"induce"	"enzyme blockade leading to mineralocorticoid-related hypertension"	
+
+(Our findings, )
+"enzyme blockade"	"be leading to"	"mineralocorticoid-related hypertension"	
+
+(Our findings, )
+"Chronic active hepatitis"	"be associated with"	"diclofenac sodium therapy"	
+
+"diclofenac sodium"	"progressed despite withdrawal of"	"drug"	
+
+"finding"	"be reported"	"previously"	
+
+"patient described developed chronic active hepatitis after QUANT_S_1 months"	"is"	"finding not previously reported"	
+
+"patient"	"be described developed chronic active hepatitis after"	"QUANT_O_1 months"	
+
+"depressions"	"be occurring in methyl dopa treated patients with"	"psychiatric histories"	
+
+"This"	"was accounted for by"	"significant number of depressions occurring in methyl dopa treated patients with psychiatric histories"	
+
+"5-azacytidine"	"potentiates"	"initiation induced by carcinogens in rat liver"	
+
+"initiation"	"be induced by carcinogens in"	"rat liver"	
+
+"a second"	"be involving hypomethylation of"	"DNA"	
+
+"QUANT_S_1 events"	"be"	"necessary"	
+
+"QUANT_S_1 events"	"be necessary for"	"initiation"	
+
+"first"	"be caused by"	"carcinogen"	
+
+"first"	"be caused by a second involving hypomethylation of"	"DNA"	
+
+"clotiazepam"	"induce"	"acute hepatitis"	
+
+(This observation, )
+"QUANT_S_1 cross hepatotoxicity between clotiazepam and QUANT_S_2 benzodiazepines"	"there is"	
+
+(This observation, )
+"QUANT_S_1 cross hepatotoxicity between clotiazepam and QUANT_S_2 benzodiazepines"	"there is"	
+
+(clotiazepam, )
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"pathophysiology of tricyclic antidepressant-induced jitteriness"	"be"	"identical"	
+
+"fluoxetine-induced akathisia"	"be caused by mediated inhibition of"	"dopaminergic neurotransmission"	
+
+(The authors, )
+"pathophysiology of fluoxetine-induced akathisia"	"be"	"identical"	
+
+(The authors, )
+"pathophysiology of"	"be"	"identical"	
+
+(The authors, )
+"Hypersensitivity to carbamazepine"	"be presenting with"	"leukemoid reaction"	
+
+"Hypersensitivity to carbamazepine"	"be presenting with"	"eosinophilia"	
+
+"Hypersensitivity to carbamazepine"	"be presenting with"	"erythroderma"	
+
+"Hypersensitivity to carbamazepine"	"be presenting with"	"renal failure"	
+
+"This"	"is first report of"	"such unusual reaction to carbamazepine"	
+
+"This"	"is"	"first report"	
+
+"This"	"is consistent with CNS origin of"	"migraine attack"	
+
+"This"	"is"	"consistent"	
+
+"CAA"	"exerts urotoxic effects When instilled directly into"	"bladder"	
+
+"CAA"	"exerts"	"urotoxic effects"	
+
+"biochemical results of brain biogenic amines of BALB/C mouse strain"	"suggest"	"probable decrease of catecholamine turnover rate by monoamine oxidase"	
+
+"biochemical results of brain biogenic amines of BALB/C mouse strain"	"suggest"	"probable decrease of metabolism by monoamine oxidase and resulting increase in O-methylation of norepinephrine"	
+
+"biochemical results of brain biogenic amines of BALB/C mouse strain"	"suggest"	"resulting increase in O-methylation of norepinephrine"	
+
+"resulting increase in O-methylation of norepinephrine"	"account for"	"behavioral depression caused by amantadine in BALB/C mice"	
+
+"behavioral depression"	"be caused by amantadine in"	"BALB/C mice"	
+
+"treatment of scabies hazardous"	"Is"	
+
+"give adequate warnings"	"be regarding"	"potential toxicity"	
+
+"general practitioners"	"prescribe scabicides with increased caution for"	"certain at-risk groups"	
+
+(This literature review, )
+"general practitioners"	"prescribe"	"scabicides"	
+
+(This literature review, )
+"literature review"	"suggests"	"give adequate warnings regarding potential toxicity"	
+
+"general practitioners"	"give adequate warnings"	"regarding potential toxicity"	
+
+"general practitioners"	"give"	"adequate warnings"	
+
+"possible beneficial effect of ribavirin during the initial days of AHF"	"is discussed"	
+
+"gamma-hexachlorocyclohexane"	"is"	"lindane"	
+
+"site responsible for decrease in seizure activity"	"be"	"GABA-A receptor-linked chloride channel"	
+
+(The in data, )
+"liver"	"are independent sites of"	"prednisolone action"	
+
+"muscle"	"are independent sites of"	"prednisolone action"	
+
+"liver"	"are"	"independent sites"	
+
+"muscle"	"are"	"independent sites"	
+
+"view"	"supports"	"contention that muscle are independent sites of prednisolone action"	
+
+"Sporadic neoplastic lesions"	"were observed in organs other than liver of QUANT_R_1 of animals irrespective of"	"diet fed"	
+
+"Sporadic neoplastic lesions"	"were observed in"	"organs other than liver of QUANT_O_1 of animals"	
+
+"Myasthenia"	"gravis"	"presenting as weakness after magnesium administration"	
+
+"Patients"	"are"	"sensitive"	
+
+"Patients"	"are sensitive to neuromuscular effects of"	"magnesium"	
+
+"Patients"	"be suspected of having underlying disorder of"	"neuromuscular transmission"	
+
+"Information regarding midazolam use"	"is reviewed to provide recommendation for"	"safe administration"	
+
+"Parkinson"	"has"	"disease"	
+
+"Parkinson"	"has"	"disease"	
+
+"low incidence of cerebral haemorrhage as cause of death in patients with Parkinson 's disease"	"reflect"	"hypotensive effect of levodopa due to reduced noradrenaline levels in parkinsonian brain"	
+
+"low incidence of cerebral haemorrhage as cause of death in patients with Parkinson 's disease"	"reflect"	"hypotensive effect of hypotensive mechanism due to reduced noradrenaline levels in parkinsonian brain"	
+
+"Pentoxifylline"	"is"	"Trental"	
+
+"Pentoxifylline"	"does inhibit"	"dipyridamole-induced coronary hyperemia"	
+
+"pentoxyifylline"	"does inhibit dipyridamole-induced coronary hyperemia even at"	"high doses"	
+
+"pentoxyifylline"	"does inhibit"	"dipyridamole-induced coronary hyperemia"	
+
+"pharmacologic agents"	"is"	"particularly aminophylline"	
+
+"pharmacologic agents"	"play"	"significant role"	
+
+(These experiments, )
+"QUANT_S_1 factors"	"contribute to"	"increased incidence of ventricular arrhythmias in respiratory failure"	
+
+(These experiments, )
+"higher incidence of tachyarrhythmias in morphine infusion group"	"There was"	"also"	
+
+"higher incidence of ventricular ectopic beats in morphine infusion group"	"There was"	"also"	
+
+"higher incidence of tachyarrhythmias in morphine infusion group"	"There was"	
+
+"higher incidence of ventricular ectopic beats in morphine infusion group"	"There was"	
+
+"we"	"discuss role of paradoxical coronary spasm occurring downstream to significant coronary arterial stenosis in pathophysiology of acute coronary insufficiency After detailing course of"	"events"	
+
+"we"	"discuss role of hypotension-mediated myocardial ischemia After detailing course of"	"events"	
+
+"we"	"discuss"	"role of paradoxical coronary spasm occurring downstream to significant coronary arterial stenosis in pathophysiology of acute coronary insufficiency"	
+
+"we"	"discuss role of"	"hypotension-mediated myocardial ischemia"	
+
+"paradoxical coronary spasm"	"be occurring downstream to significant coronary arterial stenosis in pathophysiology of"	"acute coronary insufficiency"	
+
+"hypotension-mediated myocardial ischemia"	"be occurring downstream to significant coronary arterial stenosis in pathophysiology of"	"acute coronary insufficiency"	
+
+"paradoxical coronary spasm"	"be occurring"	"downstream to significant coronary arterial stenosis"	
+
+"hypotension-mediated myocardial ischemia"	"be occurring"	"downstream to significant coronary arterial stenosis"	
+
+"their"	"has"	"incontinence"	
+
+"incontinence"	"resolve with change in"	"drug therapy"	
+
+"incontinence"	"resolve"	"spontaneously"	
+
+"Patients because incontinence may resolve spontaneously with change in drug therapy"	"present with"	"stress incontinence"	
+
+"taking prazosin"	"change antihypertensive medication before"	"considering surgery"	
+
+"taking prazosin"	"change"	"antihypertensive medication"	
+
+"their"	"has"	"antihypertensive medication"	
+
+"clinical analysis of cases"	"reported outside"	"Japan"	
+
+"full syndrome of subacute myelo-optic neuropathy"	"was more"	"frequent"	
+
+"full syndrome of subacute myelo-optic neuropathy"	"was frequent in"	"women"	
+
+"full syndrome of subacute myelo-optic neuropathy"	"was"	"frequent"	
+
+"they"	"tended to have taken greater quantities of"	"drug"	
+
+"clonidine"	"do appear to interact with"	"same receptor site"	
+
+"naloxone"	"do appear to interact with"	"same receptor site"	
+
+(the observed functional antagonism, )
+"observed functional antagonism"	"suggests release of endogenous opiate by clonidine As"	"clonidine do not appear to interact with same receptor site"	
+
+"observed functional antagonism"	"suggests release of endogenous opiate by alpha-methyldopa and role of opiate in central control of sympathetic tone As"	"clonidine do not appear to interact with same receptor site"	
+
+"observed functional antagonism"	"suggests role of opiate in central control of sympathetic tone As"	"clonidine do not appear to interact with same receptor site"	
+
+"observed functional antagonism"	"suggests"	"release of endogenous opiate by clonidine"	
+
+"observed functional antagonism"	"suggests"	"release of endogenous opiate by alpha-methyldopa and possible role of opiate in central control of sympathetic tone"	
+
+"observed functional antagonism"	"suggests"	"possible role of opiate in central control of sympathetic tone"	
+
+"its"	"has state dependency in"	"step-through type passive avoidance"	
+
+"facilitation of memory retrieval by pre-test morphine"	"be state dependent effect of"	"morphine"	
+
+"facilitation of memory retrieval by pre-test morphine"	"be"	"state dependent effect"	
+
+"facilitation of memory retrieval by pre-test morphine"	"be direct action of"	"morphine"	
+
+(These results, )
+"facilitation of memory retrieval by pre-test morphine"	"be"	"direct action"	
+
+(These results, )
+"results"	"suggest"	"state dependent effect"	
+
+"Randomized"	"is"	"double-blind trial of mazindol in Duchenne dystrophy"	
+
+"Mazindol doses"	"slow"	"progression of weakness in Duchenne dystrophy"	
+
+"Serial epilepsy"	"be caused by levodopa/carbidopa administration in QUANT_O_1 patients on"	"hemodialysis"	
+
+"Serial epilepsy"	"be caused by"	"levodopa/carbidopa administration"	
+
+"their"	"has"	"presentation"	
+
+"patient"	"was considered to have"	"renal state sufficiently severe enough to explain presentation"	
+
+"hemodialyzed patients"	"be receiving"	"desferrioxamine"	
+
+"Periodical audiovisual monitoring"	"be performed on"	"hemodialyzed patients receiving drug in to detect adverse effects as early as possible"	
+
+"hemodialyzed patients"	"be receiving drug in to detect"	"adverse effects as early as possible"	
+
+"recommended starting dose for Phase QUANT_S_1 trials"	"is QUANT_R_1 mg/m2 QUANT_R_2 bolus"	"QUANT_O_1 weeks"	
+
+"recommended starting dose for Phase QUANT_S_1 trials"	"is"	"QUANT_O_1 mg/m2 QUANT_O_2 bolus"	
+
+"underlying mechanism"	"be causing"	"neuropathy"	
+
+"it"	"be"	"lipid storage process"	
+
+(The underlying mechanism causing the neuropathy, )
+"We"	"recommend objective neuromuscular monitoring during"	"first ECT"	
+
+"We"	"recommend"	"objective neuromuscular monitoring"	
+
+"It"	"be attributed to"	"structural damage to frontal lobe"	
+
+"Activation of pallidal neurotensin receptors"	"be involved in"	"neurotensin-induced antiparkinsonian effects"	
+
+"Parkinson"	"has"	"disease"	
+
+"Capecitabine"	"has"	"well-established safety profile"	
+
+"Capecitabine"	"be given to patients with"	"advanced age"	
+
+"Capecitabine"	"be given to patients with"	"hepatic"	
+
+"Capecitabine"	"be given to patients with"	"renal dysfunctions"	
+
+"Capecitabine"	"be given"	"safely"	
+
+"amnesia"	"be caused by"	"scopolamine"	
+
+"drug"	"is"	"able to antagonize impairment of attention induced by scopolamine"	
+
+"drug"	"is"	"able to antagonize impairment of memory induced by scopolamine"	
+
+"impairment of attention"	"be induced by"	"scopolamine"	
+
+"impairment of memory"	"be induced by"	"scopolamine"	
+
+"Reduction in injection pain"	"be using buffered lidocaine as local anesthetic before"	"cardiac catheterization"	
+
+"pain"	"be occurring during infiltration of"	"tissues"	
+
+"pH adjustment of standard lidocaine"	"be accomplished in"	"catheterization laboratory"	
+
+"pH adjustment of standard lidocaine"	"be accomplished before"	"injection"	
+
+"pH adjustment of standard lidocaine"	"be accomplished"	"easily"	
+
+"pH adjustment of standard lidocaine"	"results in"	"reduction of pain occurring during infiltration of tissues"	
+
+"angiogenesis"	"be target of treatment for"	"ribavirin"	
+
+"angiogenesis"	"be target"	"associated hemolytic anemia"	
+
+"angiogenesis"	"be"	"target"	
+
+"Can target of treatment for ribavirin"	"be associated"	"hemolytic anemia"	
+
+"Future research with larger number of patients"	"is needed to find out"	"modifiable factors"	
+
+"modifiable factors"	"improve safety of"	"ribavirin therapy"	
+
+"Curcumin"	"ameliorates cognitive dysfunction in"	"phenobarbitone administered rats"	
+
+"Curcumin"	"ameliorates"	"oxidative damage"	
+
+"Curcumin"	"ameliorates cognitive dysfunction in"	"carbamazepine administered rats"	
+
+"curcumin"	"be considered as potential safe adjuvant to phenobarbitone therapy in preventing cognitive impairment associated with"	"drugs"	
+
+(The findings, )
+"curcumin"	"be considered as"	"potential safe adjuvant to phenobarbitone therapy"	
+
+(The findings, )
+"cognitive impairment"	"be associated with"	"drugs"	
+
+(The findings, )
+"curcumin"	"be considered as potential adjuvant to phenobarbitone therapy in preventing cognitive impairment associated with"	"drugs"	
+
+(The findings, )
+"curcumin"	"be considered as potential adjuvant to carbamazepine therapy in preventing cognitive impairment associated with"	"drugs"	
+
+(The findings, )
+"curcumin"	"be considered as"	"potential adjuvant to phenobarbitone therapy"	
+
+(The findings, )
+"curcumin"	"be considered as"	"potential adjuvant to carbamazepine therapy"	
+
+(The findings, )
+"curcumin"	"be considered as potential safe adjuvant to therapy in preventing cognitive impairment associated with"	"drugs"	
+
+(The findings, )
+"curcumin"	"be considered as"	"potential safe adjuvant to therapy"	
+
+(The findings, )
+"curcumin"	"be considered as potential effective adjuvant to phenobarbitone and carbamazepine therapy in preventing cognitive impairment associated with"	"drugs"	
+
+"curcumin"	"be considered as potential safe adjuvant to carbamazepine therapy in preventing cognitive impairment associated with"	"drugs"	
+
+"curcumin"	"be considered as"	"potential effective adjuvant to phenobarbitone and carbamazepine therapy"	
+
+"curcumin"	"be considered as"	"potential safe adjuvant to carbamazepine therapy"	
+
+"Suxamethonium"	"induced prolonged apnea in"	"patient receiving electroconvulsive therapy"	
+
+"Suxamethonium"	"induced"	"prolonged apnea"	
+
+"patient"	"be receiving"	"electroconvulsive therapy"	
+
+"information about suicidal attempt by OP compound"	"was concealed from"	"treating team"	
+
+"our"	"has"	"case"	
+
+"Elevation of ADAM10 expression with media degeneration"	"features CaCl2-induced thoracic aortic aneurysm in"	"rat model"	
+
+"Elevation of ADAM17 expression with media degeneration"	"features CaCl2-induced thoracic aortic aneurysm in"	"rat model"	
+
+"Elevation of MMP-2 expression with media degeneration"	"features CaCl2-induced thoracic aortic aneurysm in"	"rat model"	
+
+"Elevation of MMP-9 expression with media degeneration"	"features CaCl2-induced thoracic aortic aneurysm in"	"rat model"	
+
+"study"	"establishes"	"TAA model by periarterial CaCl exposure in rats"	
+
+"study"	"demonstrates"	"significant elevation of expression of MMP-2 in pathogenesis of vascular remodeling"	
+
+"study"	"demonstrates"	"significant elevation of expression of MMP-9 in pathogenesis of vascular remodeling"	
+
+"study"	"demonstrates"	"significant elevation of expression of ADAM10 in pathogenesis of vascular remodeling"	
+
+"study"	"demonstrates"	"significant elevation of expression of ADAM17 in pathogenesis of vascular remodeling"	
+
+"periarterial CaCl"	"is"	"QUANT_O_1"	
+
+"drug exposure during sensitive period"	"program"	"disease-like systems permanently"	
+
+"disease-like systems permanently"	"have implications for current therapeutic strategies for"	"this"	
+
+"disease-like systems permanently"	"have implications for future therapeutic strategies for"	"this and other psychiatric disorders"	
+
+"disease-like systems permanently"	"have implications for current therapeutic strategies for"	"other psychiatric disorders"	
+
+"novel proteins"	"were reduced suggesting roles in"	"PAN"	
+
+"a-actinin"	"was"	"unchanged"	
+
+"adriamycin"	"be combined with whole body hyperthermia on"	"tumor tissues"	
+
+"adriamycin"	"be combined with whole body hyperthermia on"	"normal tissues"	
+
+"potential therapeutic gain of combined modality treatment"	"is eroded"	
+
+"whole body hyperthermia"	"enhances"	"Adriamycin-mediated antitumor effect"	
+
+"normal tissue toxicity"	"is increased"	"also"	
+
+"normal tissue toxicity"	"is increased"	
+
+"neurological toxicity"	"be monitored"	"closely"	
+
+"neurological toxicity"	"be monitored"	
+
+"Our"	"has"	"experience"	
+
+"experience"	"supports"	"safety of giving AraG as salvage therapy in synchrony with etoposide"	
+
+"experience"	"supports"	"safety of giving AraG as salvage therapy in synchrony with cyclophosphamide"	
+
+"extrapyramidal symptoms"	"is"	"AEs"	
+
+"efficacy"	"was similar with"	"asenapine"	
+
+"efficacy"	"was similar with"	"haloperidol"	
+
+"efficacy"	"was"	"similar"	
+
+"greater contrasts"	"were seen in AEs"	"especially extrapyramidal symptoms"	
+
+"greater contrasts"	"were seen"	"especially extrapyramidal symptoms"	
+
+"Cocaine"	"causes"	"memory"	
+
+"Cocaine"	"learning impairments in"	"rats"	
+
+"QUANT_S_1 alterations"	"be observed"	
+
+"Topiramate"	"be showing"	"novel neuroprotective properties"	
+
+"Topiramate"	"prevented QUANT_R_1 alterations observed"	"showing novel neuroprotective properties"	
+
+"Topiramate"	"prevented"	"QUANT_O_1 alterations observed"	
+
+"CNS complications"	"are frequent events In"	"conclusion"	
+
+"CNS complications"	"are frequent events during"	"QUANT_O_1 therapy"	
+
+"CNS complications"	"are"	"frequent events"	
+
+"CNS complications"	"require rapid detection to limit"	"permanent damage"	
+
+"CNS complications"	"require prompt treatment to limit"	"permanent damage"	
+
+"It"	"was concluded"	"it"	
+
+"treatment with enalapril"	"was tolerated"	"well"	
+
+"treatment with enalapril"	"was tolerated"	
+
+"high proportion of patients"	"had consumed"	"ATT empirically"	
+
+"ATT empirically"	"have been prevented"	
+
+"Dental practitioners"	"be"	"skeptical"	
+
+"Dental practitioners"	"be skeptical about"	"reliability of appointment keeping by patients"	
+
+"appointment"	"be keeping by"	"patients"	
+
+"they"	"miss"	"appointments"	
+
+"they"	"miss appointments without"	"reasonable justification"	
+
+"their"	"has"	"appointments"	
+
+"spasm provocation tests"	"have"	"high sensitivity in vasoreactivity of right coronary artery"	
+
+"spasm provocation tests"	"have high sensitivity in"	"variant angina"	
+
+(These results, )
+"spasm provocation tests"	"use"	"intracoronary injection of relatively low dose of methylergonovine"	
+
+"QUANT_S_1 need to interrupt examinations"	"there was"	
+
+"QUANT_S_1 need"	"be interrupt"	"examinations"	
+
+"QUANT_S_1 severe events"	"There were"	
+
+"effects"	"be relevant in treatment of"	"cocaine dependence"	
+
+"effects"	"be"	"relevant"	
+
+"treatment with BMCs"	"prevent development of chronic seizures In"	"conclusion"	
+
+"treatment with BMCs"	"prevent development of"	"chronic seizures"	
+
+"treatment with BMCs"	"reduce"	"neuronal loss"	
+
+"treatment with BMCs"	"influence reorganization of"	"hippocampal neuronal network"	
+
+"effects of adjunctive bupropion on male sexual dysfunction"	"be induced by"	"selective serotonin reuptake inhibitor"	
+
+"results"	"provide"	"empirical support for conducting further study of bupropion"	
+
+"first report extended coagulopathy"	"be measure plasma argatroban concentration in context of"	"CPB"	
+
+"first report extended"	"be measure"	"coagulopathy"	
+
+"This"	"is first report to measure"	"plasma argatroban concentration in context of CPB"	
+
+"This"	"is first report"	"extended coagulopathy"	
+
+"This"	"is"	"first report"	
+
+"Phenylephrine"	"reduces frontal lobe oxygenation"	"following anesthesia-induced hypotension"	
+
+"ephedrine"	"reduces frontal lobe oxygenation"	"following anesthesia-induced hypotension"	
+
+"Phenylephrine"	"reduces"	"frontal lobe oxygenation"	
+
+"ephedrine"	"reduces"	"frontal lobe oxygenation"	
+
+"ephedrine"	"maintains"	"frontal lobe oxygenation potentially related to increase in CO."	
+
+"utilization of phenylephrine"	"be correct hypotension induced by"	"anesthesia"	
+
+"hypotension"	"be induced by"	"anesthesia"	
+
+"utilization of phenylephrine to correct hypotension induced by anesthesia"	"has negative impact on"	"S O"	
+
+"S"	"is"	"c"	
+
+"S O"	"is"	"QUANT_O_1"	
+
+"Hemolytic anemia"	"be associated with use of"	"omeprazole"	
+
+"omeprazole"	"caused patient 's hemolytic anemia"	"mechanism"	
+
+"patient"	"has"	"hemolytic anemia"	
+
+"mechanism"	"is"	"uncertain"	
+
+"physicians"	"be alerted to"	"possible adverse effect"	
+
+"findings"	"reveal differential impact of immune escape variants on replication susceptibility of complex HBV mutants"	"supporting need of close surveillance in response to selection of distinct mutational patterns"	
+
+"findings"	"reveal differential impact of immune escape variants on replication susceptibility of complex HBV mutants"	"supporting need of treatment adjustment in response to selection of distinct mutational patterns"	
+
+"findings"	"reveal differential impact of immune escape variants on drug susceptibility of complex HBV mutants"	"supporting need of close surveillance in response to selection of distinct mutational patterns"	
+
+"findings"	"reveal differential impact of immune escape variants on drug susceptibility of complex HBV mutants"	"supporting need of treatment adjustment in response to selection of distinct mutational patterns"	
+
+"findings"	"reveal"	"differential impact of immune escape variants on replication susceptibility of complex HBV mutants"	
+
+"findings"	"reveal"	"differential impact of immune escape variants on drug susceptibility of complex HBV mutants"	
+
+"findings"	"be supporting"	"need of close surveillance in response to selection of distinct mutational patterns"	
+
+"findings"	"be supporting"	"need of treatment adjustment in response to selection of distinct mutational patterns"	
+
+"Sulfonamides"	"were associated with QUANT_R_1 birth defects indicating need for"	"additional scrutiny"	
+
+"nitrofurantoins"	"were associated with QUANT_R_1 birth defects indicating need for"	"additional scrutiny"	
+
+"Sulfonamides"	"were associated indicating need for"	"additional scrutiny"	
+
+"nitrofurantoins"	"were associated indicating need for"	"additional scrutiny"	
+
+"Lithium-induced polyuria"	"seems to be related to"	"extrarenal"	
+
+"Lithium-induced polyuria"	"seems to be related to to"	"renal effects"	
+
+"drugs"	"disappear from"	"patient"	
+
+"adjacent catheters"	"be resulting in"	"elimination of drug by CVVHDF"	
+
+"effects of QUANT_S_1 drugs"	"are inadequate in"	"patients receiving CVVHDF"	
+
+(interference with adjacent catheters resulting in elimination of the drug by CVVHDF, )
+"effects of QUANT_S_1 drugs"	"are"	"inadequate"	
+
+(interference with adjacent catheters resulting in elimination of the drug by CVVHDF, )
+"patients"	"be receiving"	"CVVHDF"	
+
+(interference with adjacent catheters resulting in elimination of the drug by CVVHDF, )
+"interference with adjacent catheters resulting in elimination of drug by CVVHDF"	"be suspected"	
+
+"We"	"recommend"	"caution in use of lopinavir/ritonavir in immediate neonatal period"	
+
+"Anaesthetists"	"has"	"nightmare"	
+
+"patient"	"was aware of"	"diagnosis"	
+
+"anaesthetist"	"was aware of"	"diagnosis"	
+
+"patient"	"was"	"aware"	
+
+"anaesthetist"	"was"	"aware"	
+
+"potentially lethal complication"	"occurred"	
+
+"Pyrrolidine dithiocarbamate"	"protects piriform cortex in"	"pilocarpine status epilepticus model"	
+
+"Pyrrolidine dithiocarbamate"	"protects"	"piriform cortex"	
+
+"future investigations"	"are"	"necessary to analyze exactly biochemical mechanisms However"	
+
+"future investigations"	"are"	"necessary to analyze biochemical mechanisms However"	
+
+"future investigations"	"are"	"necessary to analyze exactly biochemical mechanisms"	
+
+"future investigations"	"are"	"necessary to analyze biochemical mechanisms"	
+
+"PDTC"	"exerted beneficial effects in"	"piriform cortex biochemical mechanisms"	
+
+"PDTC"	"exerted beneficial effects"	"biochemical mechanisms"	
+
+"its"	"has"	"beneficial effects"	
+
+"glycine transporter-1 inhibitor SSR103800"	"displays selective antipsychotic-like profile in"	"normal mice"	
+
+"glycine transporter-1 inhibitor SSR103800"	"displays specific antipsychotic-like profile in"	"normal and transgenic mice"	
+
+"glycine transporter-1 inhibitor SSR103800"	"displays selective antipsychotic-like profile in"	"transgenic mice"	
+
+"GlyT1 inhibitor"	"is"	"SSR103800"	
+
+"GlyT1 inhibitor"	"produces"	"antipsychotic-like effects"	
+
+"GlyT1 inhibitor"	"has"	"reduced side-effect potential"	
+
+"antipsychotic-like effects"	"differ from those observed with"	"compounds primarily targeting dopaminergic system"	
+
+"those"	"be observed with"	"compounds primarily targeting dopaminergic system"	
+
+"compounds"	"be targeting"	"dopaminergic system"	
+
+"SSR103800"	"did produce"	"catalepsy retention on bar test up to QUANT_O_1 mg/kg p.o. Together findings"	
+
+"SSR103800"	"did produce catalepsy retention on bar test up to QUANT_R_1 mg/kg p.o. Together findings unlike"	"these latter"	
+
+"clinicians"	"avoid"	"prescribing oral opioids to older adults"	
+
+"clinicians"	"avoid"	"prescribing oral opioids"	
+
+"older adults"	"are at higher risk for side effects than"	"younger adults"	
+
+"older adults"	"are at higher risk for"	"side effects"	
+
+"We"	"find QUANT_O_1 previous reports of"	"sulpiride-induced tardive dystonia"	
+
+"cases"	"confirm"	"necessity of avoiding alcohol consumption as recommended in instructions for use of Dormex"	
+
+"cases"	"confirm"	"necessity of avoiding alcohol consumption of preventing cutaneous contact during use"	
+
+"their"	"has neural correlates during"	"face-learning task"	
+
+"ecstasy-specific effects"	"be related to"	"vulnerability of isocortical regions to neurotoxic effects of ecstasy"	
+
+"ecstasy-specific effects"	"be related to"	"vulnerability of allocortical regions to neurotoxic effects of ecstasy"	
+
+"ocular myasthenia"	"be associated with"	"combination therapy of pegylated IFN alpha-2b for CHC"	
+
+"ocular myasthenia"	"be associated with"	"combination therapy of ribavirin for CHC"	
+
+"ocular myasthenia associated with combination therapy of pegylated IFN alpha-2b for CHC"	"is reported"	"very rarely"	
+
+"ocular myasthenia associated with combination therapy of ribavirin for CHC"	"is reported"	"very rarely"	
+
+"ocular myasthenia associated with combination therapy of pegylated IFN alpha-2b for CHC"	"is reported"	
+
+"ocular myasthenia associated with combination therapy of ribavirin for CHC"	"is reported"	
+
+"we"	"present"	"case"	
+
+"we"	"present case with"	"review of QUANT_O_1 eye complications of IFN therapy"	
+
+"Long-term glutamate supplementation"	"failed to protect against peripheral neurotoxicity of"	"paclitaxel"	
+
+"glutamate supplementation at chosen regimen"	"fails to protect against peripheral neurotoxicity of"	"PAC"	
+
+"our"	"has"	"study"	
+
+"salvianolic acid"	"be possessing"	"antioxidant activity"	
+
+(The results of our study, )
+"salvianolic acid possessing antioxidant activity"	"has significant protective effect against"	"isoproterenol-induced myocardial infarction"	
+
+(The results of our study, )
+"capsaicin-induced secondary hyperalgesia"	"affect mechanical pain through"	"independent mechanisms"	
+
+(Our findings showing no interaction between capsaicin treatment and attentional modulation, )
+"capsaicin-induced secondary hyperalgesia"	"affect"	"mechanical pain"	
+
+(Our findings showing no interaction between capsaicin treatment and attentional modulation, )
+"attention"	"affect mechanical pain through"	"independent mechanisms"	
+
+"attention"	"affect"	"mechanical pain"	
+
+"findings"	"be showing QUANT_O_1 interaction between"	"capsaicin treatment and attentional modulation"	
+
+"Components of lemon essential oil"	"attenuate dementia induced by"	"scopolamine"	
+
+"dementia"	"be induced by"	"scopolamine"	
+
+"these QUANT_S_1 lemon essential oil components"	"inhibit acetylcholinesterase activity"	"in vitro using Ellman method"	
+
+"these QUANT_S_1 lemon essential oil components"	"inhibit acetylcholinesterase activity"	"using Ellman method"	
+
+"sirolimus"	"is withdrawn"	
+
+"Proteinuria"	"improve"	
+
+"magnetic resonance findings on diffusion-weighted"	"attenuated"	"inversion recovery imaging"	
+
+"magnetic resonance findings on fluid"	"attenuated"	"inversion recovery imaging"	
+
+"Reversible inferior colliculus lesions"	"be considered as characteristic for metronidazole-induced encephalopathy"	"next to dentate nucleus involvement"	
+
+"Reversible inferior colliculus lesions"	"be considered"	"next to dentate nucleus involvement"	
+
+"Confusion"	"is serious adverse drug reaction with"	"valproic acid"	
+
+"It"	"occurs in"	"older patients"	
+
+"It"	"occurs during the first QUANT_O_1 weeks of"	"treatment"	
+
+"Bradykinin receptors antagonists in vincristine"	"induced hyperalgesia in"	"chemotherapy"	
+
+"Bradykinin receptors antagonists in vincristine"	"induced hyperalgesia in"	"diabetic neuropathy rat model"	
+
+"nitric oxide synthase inhibitors"	"induced hyperalgesia in"	"chemotherapy"	
+
+"nitric oxide synthase inhibitors"	"induced hyperalgesia in"	"diabetic neuropathy rat model"	
+
+"Bradykinin receptors antagonists in streptozotocin"	"induced hyperalgesia in"	"chemotherapy"	
+
+"Bradykinin receptors antagonists in streptozotocin"	"induced hyperalgesia in"	"diabetic neuropathy rat model"	
+
+"Bradykinin receptors antagonists in vincristine"	"induced"	"hyperalgesia"	
+
+"nitric oxide synthase inhibitors"	"induced"	"hyperalgesia"	
+
+"Bradykinin receptors antagonists in streptozotocin"	"induced"	"hyperalgesia"	
+
+"concomitant administration of small doses of bradykinin receptor antagonists"	"be"	"effective"	
+
+"concomitant administration of small doses of QUANT_S_1 synthase inhibitors"	"be"	"effective"	
+
+"concomitant administration of small doses of bradykinin receptor antagonists"	"be effective in alleviation of"	"neuropathic pain"	
+
+"concomitant administration of small doses of QUANT_S_1 synthase inhibitors"	"be effective in alleviation of"	"neuropathic pain"	
+
+"concomitant administration of small doses of bradykinin receptor antagonists"	"be effective even in"	"hospital care"	
+
+"concomitant administration of small doses of QUANT_S_1 synthase inhibitors"	"be effective even in"	"hospital care"	
+
+"patient QUANT_S_1"	"showed lesions of QUANT_R_1 cm readily detectable on magnetic resonance imaging under"	"prolonged co-trimoxazole treatment"	
+
+"prolonged co-trimoxazole treatment"	"is therapy of"	"patient QUANT_O_1"	
+
+"consolidation of memory"	"is"	"important interim stage"	
+
+(The data, )
+"data"	"suggest"	"may take up to QUANT_O_1 day"	
+
+"consolidation of memory"	"take up"	"to QUANT_O_1 day"	
+
+"Testosterone"	"contributes to development of hypertension in male DS rats on HS diet through upregulation of"	"intrarenal renin-angiotensin system"	
+
+"Testosterone"	"contributes to development of renal injury in male DS rats on HS diet through upregulation of"	"intrarenal renin-angiotensin system"	
+
+"Testosterone"	"contributes to"	"development of hypertension in male DS rats on HS diet"	
+
+"Testosterone"	"contributes to"	"development of renal injury in male DS rats on HS diet"	
+
+"associated urinary concentrating defect"	"is reversible only during"	"early stages of structural damage to inner medulla"	
+
+"associated urinary concentrating defect"	"is"	"reversible"	
+
+"Effect of green tea in isoproterenol"	"induced myocardial infarction in"	"rats"	
+
+"Effect of vitamin E combination in isoproterenol"	"induced myocardial infarction in"	"rats"	
+
+"synergistic protective effect of green tea during ISO"	"induced myocardial infarction in"	"rats"	
+
+"synergistic protective effect of vitamin E during ISO"	"induced myocardial infarction in"	"rats"	
+
+"patients"	"required"	"immunosuppressive therapy"	
+
+"Prophylactic administration of lamivudine in patients"	"seems to be"	"safe"	
+
+"QUANT_S_1 individual case reports"	"is in"	"particular use of minimally invasive method of intracorporal epinephrine instillation"	
+
+"management options in ED"	"are discussed"	
+
+"Parkinson"	"has"	"disease"	
+
+"further"	"be"	
+
+"methoxy-4-methylquinoline"	"is"	"WR242511"	
+
+"WR242511"	"be pursued as pretreatment for"	"CN poisoning"	
+
+"anti-CN characteristics of compound"	"be dissociated from"	"producing undesirable toxicity"	
+
+"those"	"be producing"	"undesirable toxicity"	
+
+"Alpha-lipoic acid"	"prevents mitochondrial damage in"	"experimental chemotherapy neuropathy"	
+
+"Alpha-lipoic acid"	"prevents neurotoxicity in"	"experimental chemotherapy neuropathy"	
+
+"Alpha-lipoic acid"	"prevents"	"mitochondrial damage"	
+
+"Alpha-lipoic acid"	"prevents"	"neurotoxicity"	
+
+"alpha-lipoic acid"	"reduce"	"risk of developing peripheral nerve toxicity in patients undergoing chemotherapy"	
+
+(These findings, )
+"patients"	"be undergoing"	"chemotherapy"	
+
+(These findings, )
+"findings"	"suggest"	"encourage further confirmatory clinical trials"	
+
+"alpha-lipoic acid"	"encourage"	"further confirmatory clinical trials"	
+
+"Severe thrombocytopenia"	"be associated with"	"ciprofloxacin"	
+
+"haemolytic anaemia"	"be associated with"	"ciprofloxacin"	
+
+"ciprofloxacin"	"precipitate life-threatening thrombocytopenia even in early phases of"	"treatment"	
+
+(This case report, )
+"ciprofloxacin"	"precipitate"	"life-threatening thrombocytopenia"	
+
+(This case report, )
+"ciprofloxacin"	"precipitate in early phases of"	"treatment"	
+
+(This case report, )
+"ciprofloxacin"	"precipitate without"	"apparent previous exposures"	
+
+(This case report, )
+"ciprofloxacin"	"precipitate life-threatening thrombocytopenia without"	"apparent previous exposures"	
+
+"ciprofloxacin"	"precipitate haemolytic anaemia even in early phases of"	"treatment"	
+
+"ciprofloxacin"	"precipitate haemolytic anaemia without"	"apparent previous exposures"	
+
+"ciprofloxacin"	"precipitate"	"haemolytic anaemia"	
+
+"gene-targeted mice"	"be lacking"	"SGK1"	
+
+"gene-targeted mice lacking SGK1"	"showed blunted volume retention In"	"conclusion"	
+
+"gene-targeted mice lacking SGK1"	"showed"	"blunted volume retention"	
+
+"oral bisphosphonate"	"is"	"alendronate"	
+
+"intravenous"	"aggravate"	"proteinuria"	
+
+"intravenous"	"aggravate"	"acute renal failure"	
+
+"oral bisphosphonates"	"aggravate"	"proteinuria"	
+
+"oral bisphosphonates"	"aggravate"	"acute renal failure"	
+
+"report"	"demonstrates that"	"oral bisphosphonates can aggravate proteinuria and acute renal failure"	
+
+"Clinicians"	"be aware of potential hepatotoxicity with"	"simvastatin-ezetimibe"	
+
+"Clinicians"	"be aware especially in"	"elderly patients"	
+
+"Clinicians"	"be"	"aware"	
+
+"Clinicians"	"monitor"	"serum aminotransferase levels"	
+
+"Recommendations"	"be avoid potential cranial nerve deficits from"	"papaverine"	
+
+"Recommendations to avoid potential cranial nerve deficits from papaverine"	"are provided"	
+
+"Prenatal protein deprivation"	"alters"	"dopamine-mediated behaviors"	
+
+"Prenatal protein deprivation"	"alters"	"dopaminergic receptor binding"	
+
+"Prenatal protein deprivation"	"alters"	"glutamatergic receptor binding"	
+
+"developmental processes"	"be leading to"	"differential sensitivity to drugs of abuse"	
+
+"animal model"	"be"	"useful to explore mechanisms"	
+
+"prenatal nutritional deficiency"	"enhances risk for schizophrenia in humans"	"mechanisms"	
+
+"prenatal nutritional deficiency"	"have implications for developmental processes leading to differential sensitivity to drugs of abuse"	"mechanisms also"	
+
+"prenatal nutritional deficiency"	"have implications for developmental processes leading to differential sensitivity to drugs of abuse"	"mechanisms"	
+
+"certain limitations for malaria prophylaxis with mefloquine"	"are recommended"	"Therefore"	
+
+"certain limitations for treatment with mefloquine"	"are recommended"	"Therefore"	
+
+"certain limitations for malaria prophylaxis with mefloquine"	"are recommended"	
+
+"certain limitations for treatment with mefloquine"	"are recommended"	
+
+"We"	"discuss"	"possible mechanisms"	
+
+"We"	"discuss significance of"	"mToR blockade-induced proteinuria"	
+
+"Adriamycin-induced autophagic cardiomyocyte death"	"plays pathogenic role in rat model of"	"heart failure"	
+
+"Adriamycin-induced autophagic cardiomyocyte death"	"plays"	"pathogenic role"	
+
+"Mitochondrial injury"	"be involved in"	"progression of heart failure caused by adriamycin via autophagy pathway"	
+
+"heart failure"	"be caused by"	"adriamycin"	
+
+"study"	"supports"	"high frequency of restrictive valve regurgitation in PD patients treated with pergolide"	
+
+"PD patients"	"be treated with"	"pergolide"	
+
+"significant improvement"	"is"	"usual"	
+
+"treatment"	"is converted to"	"non-ergot dopamine agonists"	
+
+"Omitting fentanyl"	"reduces nausea without"	"increasing pain"	
+
+"Omitting fentanyl"	"reduces vomiting without"	"increasing pain"	
+
+"Omitting fentanyl"	"reduces nausea after sevoflurane for"	"day surgery"	
+
+"Omitting fentanyl"	"reduces vomiting after sevoflurane for"	"day surgery"	
+
+"Omitting fentanyl"	"reduces"	"nausea"	
+
+"Omitting fentanyl"	"reduces"	"vomiting"	
+
+"fentanyl"	"exacerbated"	"postoperative nausea"	
+
+"fentanyl"	"had"	"adverse cardiorespiratory effects"	
+
+"fentanyl"	"vomiting without improvement in"	"postoperative pain"	
+
+"it"	"appears to be unnecessary supplement to sevoflurane"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be detrimental supplement to sevoflurane"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be unnecessary supplement in day surgery"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be detrimental supplement in day surgery"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be unnecessary supplement"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be detrimental supplement"	"vomiting without improvement in postoperative pain"	
+
+"it"	"appears to be unnecessary supplement to sevoflurane"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be detrimental supplement to sevoflurane"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be unnecessary supplement in day surgery"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be detrimental supplement in day surgery"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be unnecessary supplement"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be detrimental supplement"	"also had adverse cardiorespiratory effects"	
+
+"it"	"appears to be"	"unnecessary supplement to sevoflurane"	
+
+"it"	"appears to be"	"possibly detrimental supplement to sevoflurane"	
+
+"it"	"appears to be unnecessary supplement in"	"day surgery"	
+
+"it"	"appears to be detrimental supplement in"	"day surgery"	
+
+"it"	"appears to be"	"unnecessary supplement"	
+
+"it"	"appears to be"	"possibly detrimental supplement"	
+
+"Improvement"	"occurred replaced by"	"everolimus"	
+
+"eventually full recovery"	"occurred replaced by"	"everolimus"	
+
+"TAC"	"was discontinued"	"completely"	
+
+"TAC"	"was discontinued"	
+
+"TAC"	"replaced by"	"everolimus"	
+
+"hepatitis-B surface antigen"	"is"	"HBSAG"	
+
+"hepatitis-B surface antigen seropositive cancer patients"	"be undergoing"	"cytotoxic chemotherapy"	
+
+"Atherosclerosis"	"produce gastric hemorrhagic ulcer via aggravation of"	"gastric acid back-diffusion"	
+
+"Atherosclerosis"	"produce gastric hemorrhagic ulcer via"	"LPO generation"	
+
+"Atherosclerosis"	"produce gastric hemorrhagic ulcer via"	"histamine release"	
+
+"Atherosclerosis"	"produce gastric hemorrhagic ulcer via"	"microvascular permeability"	
+
+"Atherosclerosis"	"produce"	"gastric hemorrhagic ulcer"	
+
+"aggravation of gastric acid back-diffusion"	"be ameliorated by verapamil in"	"rats"	
+
+"LPO generation"	"be ameliorated by verapamil in"	"rats"	
+
+"histamine release"	"be ameliorated by verapamil in"	"rats"	
+
+"microvascular permeability"	"be ameliorated by verapamil in"	"rats"	
+
+"N"	"is"	"2-propylpentanoyl"	
+
+"those"	"be reported"	"herein"	
+
+"QUANT_S_1 other mechanism than those being reported herein"	"be investigated"	"further"	
+
+"QUANT_S_1 other mechanism than those being reported herein"	"be investigated"	
+
+"Nicotine-induced nystagmus"	"correlates with"	"midpontine activation"	
+
+"nucleus reticularis tegmenti pontis"	"is"	"structures known to participate in generation of multidirectional saccades"	
+
+"nucleus reticularis tegmenti pontis"	"is"	"structures known to participate in generation of smooth pursuit eye movements"	
+
+"structures"	"be known to participate in generation of"	"multidirectional saccades"	
+
+"structures"	"be known to participate in generation of"	"smooth pursuit eye movements"	
+
+"NIN-induced midpontine activation"	"correspond to activation of"	"dorsomedial pontine nuclei"	
+
+"NIN-induced midpontine activation"	"correspond to"	"nucleus reticularis tegmenti pontis"	
+
+"Methamphetamine-induced neurotoxicity"	"are mediated by"	"fractalkine receptor signaling"	
+
+"microglial activation"	"are mediated by"	"fractalkine receptor signaling"	
+
+"it"	"appears"	"then return to surveying state without undergoing apoptosis"	
+
+"it"	"appears"	"then return to surveying state without undergoing migration"	
+
+"striatal-resident microglia"	"respond to METH with"	"activation cascade"	
+
+"striatal-resident microglia"	"respond to"	"METH"	
+
+"striatal-resident microglia"	"return to surveying state without"	"undergoing apoptosis"	
+
+"striatal-resident microglia"	"return to surveying state without"	"undergoing migration"	
+
+"striatal-resident microglia"	"return to"	"surveying state"	
+
+"ipratropium"	"is more potent bronchodilator than"	"oral theophylline in patients with chronic airflow obstruction"	
+
+(These results, )
+"ipratropium"	"is"	"more potent bronchodilator"	
+
+(These results, )
+"Central retinal vein occlusion"	"be associated with"	"clomiphene-induced ovulation"	
+
+"Extra caution"	"is warranted in treating infertility patients with"	"CC"	
+
+"patients"	"be informed of"	"side effect"	
+
+"patients"	"be informed of side effect before commencement of"	"therapy"	
+
+"effect"	"appears to be mediated by"	"central nicotine receptors"	
+
+"SAR studies"	"led to compound QUANT_O_1 with"	"excellent potency"	
+
+"SAR studies"	"led to compound"	"QUANT_O_1"	
+
+"selectivity"	"is"	"A /"	
+
+"A /"	"is"	"QUANT_O_1"	
+
+"efficacy"	"is"	"MED QUANT_O_1 mg/kg p.o."	
+
+"Parkinson"	"has"	"disease"	
+
+"Ginsenoside Rg1"	"restores"	"impairment of learning induced by chronic morphine administration in rats"	
+
+"learning"	"be induced by chronic morphine administration in"	"rats"	
+
+"effect"	"is"	"NMDA receptor dependent"	
+
+"Srl"	"be used with"	"ACEi/ARB therapy"	
+
+"Srl"	"be used with"	"patients"	
+
+"findings"	"demonstrate"	"sexually-dimorphic interaction between NMDA antagonists and morphine in persistent pain model"	
+
+"persistent pain model"	"be distinguished from those observed in"	"acute pain models"	
+
+"those"	"be observed in"	"acute pain models"	
+
+"Thalidomide"	"has limited single-agent activity in"	"relapsed indolent non-Hodgkin lymphomas"	
+
+"Thalidomide"	"has limited single-agent activity in"	"refractory indolent non-Hodgkin lymphomas"	
+
+"second generation immunomodulatory agent"	"is"	"lenalidomide"	
+
+"Our"	"has"	"results"	
+
+"results"	"failed to demonstrate"	"important response rate to single agent thalidomide in indolent lymphomas"	
+
+"results"	"failed to demonstrate"	"contrast with higher activity level reported with second generation immunomodulatory agent"	
+
+"higher activity level"	"be reported with"	"second generation immunomodulatory agent"	
+
+"Higher optical density of antigen assay"	"predicts"	"thrombosis in patients with heparin-induced thrombocytopenia"	
+
+"Higher OD"	"is associated with"	"significant risk of subsequent thrombosis in patients with isolated-HIT"	
+
+"percent inhibition"	"was"	"predictive"	
+
+"patient 's tubular dysfunction"	"have resulted from"	"mitochondrial dysfunction"	
+
+(We, )
+"our"	"has"	"patient 's"	
+
+(We, )
+"patient"	"has"	"tubular dysfunction"	
+
+(We, )
+"myopathy"	"have resulted from"	"mitochondrial dysfunction"	
+
+"mitochondrial dysfunction"	"is triggered by"	"tacrolimus"	
+
+"mitochondrial dysfunction"	"augmented by"	"lamivudine"	
+
+"Physicians prescribing clonidine"	"monitor for"	"bradycardia"	
+
+"Physicians prescribing clonidine"	"advise patients about high likelihood of"	"initial drowsiness"	
+
+"Physicians prescribing clonidine"	"advise"	"patients"	
+
+"Hypothalamic prolactin receptor messenger ribonucleic acid levels"	"are dependent on"	"estradiol"	
+
+"prolactin signaling"	"are dependent on"	"estradiol"	
+
+"hyperprolactinemic inhibition of pulsatile luteinizing hormone secretion"	"are dependent on"	"estradiol"	
+
+"Hypothalamic prolactin receptor messenger ribonucleic acid levels"	"are"	"dependent"	
+
+"prolactin signaling"	"are"	"dependent"	
+
+"hyperprolactinemic inhibition of pulsatile luteinizing hormone secretion"	"are"	"dependent"	
+
+"They"	"provide"	"evidence for estradiol-dependent region-specific regulation of PRL-R expression by prolactin"	
+
+"They"	"provide"	"evidence for brain region-specific regulation of PRL-R expression and signaling responses by prolactin"	
+
+"They"	"provide"	"evidence for estradiol-dependent region-specific regulation of signaling responses by prolactin"	
+
+"Norepinephrine signaling through beta-adrenergic receptors"	"is critical for expression of"	"cocaine-induced anxiety"	
+
+"Norepinephrine signaling through beta-adrenergic receptors"	"is"	"critical"	
+
+"noradrenergic signaling via beta-adrenergic receptors"	"is required for cocaine-induced anxiety in"	"mice"	
+
+"Encephalopathy"	"be induced by"	"levetiracetam"	
+
+"Encephalopathy induced by levetiracetam"	"added to"	"valproate"	
+
+"LEV findings seizure frequency"	"be improved"	
+
+"EEG findings seizure frequency"	"be improved"	
+
+"neuropsychological findings seizure frequency"	"be improved"	
+
+"This"	"was case of acute palsy of"	"recurrent laryngeal nerve"	
+
+"This"	"was superimposed severe acute sensorimotor axonal polyneuropathy caused by high-dose disulfiram intoxication of acute palsy of"	"recurrent laryngeal nerve"	
+
+"This"	"was"	"case"	
+
+"This"	"was superimposed severe acute sensorimotor axonal polyneuropathy caused by"	"high-dose disulfiram intoxication"	
+
+"superimposed severe acute sensorimotor axonal polyneuropathy"	"be caused by"	"high-dose disulfiram intoxication"	
+
+"Long-term use"	"was associated with daytime symptoms indicative of"	"poorer health"	
+
+"Long-term use"	"was associated with night-time symptoms indicative of"	"poorer health"	
+
+"Long-term use"	"caused by adverse effects of"	"drugs"	
+
+"regular alcohol consumption"	"be ingesting paracetamol at"	"therapeutic dosage"	
+
+"paracetamol dose"	"exceed QUANT_O_1 g/day in"	"such patients"	
+
+"their"	"has"	"liver function"	
+
+"liver function"	"be monitored while being treated with"	"paracetamol"	
+
+"liver function"	"be monitored"	"closely"	
+
+"it"	"is"	"important to extend duration of injection When administering subcutaneous heparin injections"	
+
+"it"	"is"	"important to extend duration of injection"	
+
+"we"	"report"	"case of acute hepatitis probably associated with administration of telithromycin"	
+
+"acute hepatitis"	"be associated with administration of"	"telithromycin"	
+
+"acute hepatitis"	"be associated"	"probably"	
+
+"Estrogen"	"prevents"	"cholesteryl ester accumulation in macrophages induced by HIV protease inhibitor ritonavir"	
+
+"macrophages"	"be induced by"	"HIV protease inhibitor ritonavir"	
+
+"monocyte-derived macrophages"	"be resulting in"	"reduced cholesteryl ester accumulation following ritonavir treatment"	
+
+(This data, )
+"E2"	"modifies"	"expression of CD36 at level of protein expression in monocyte-derived macrophages resulting in reduced cholesteryl ester accumulation following ritonavir treatment"	
+
+(This data, )
+"cerebral perfusion SPECT"	"scan"	"findings"	
+
+"Repeated cerebral perfusion SPECT scans"	"revealed"	
+
+"movement disorder"	"was"	"present"	
+
+"rabbit syndrome"	"resolved"	"return to normal perfusion"	
+
+"Mutations"	"be associated with lamivudine-resistance in therapy-na ve hepatitis B virus infected patients with"	"HIV co-infection"	
+
+"Mutations"	"be associated with lamivudine-resistance in"	"therapy-na ve hepatitis B virus infected patients"	
+
+"therapy-na ve hepatitis B virus"	"is"	"HBV"	
+
+"implications for antiretroviral therapy in HBV"	"be co-infected"	"South African patients"	
+
+"implications for antiretroviral therapy in HIV"	"be co-infected"	"South African patients"	
+
+"such pre-existing antiviral mutations"	"result in widespread emergence of"	"HBV resistant strains"	
+
+"antiretroviral"	"is"	"ARV"	
+
+"lamivudine-containing highly active antiretroviral treatment"	"is"	"HAART"	
+
+"lamivudine-containing highly active antiretroviral treatment regimens"	"become"	"widely applied in South Africa widespread emergence of HBV resistant strains"	
+
+"this"	"is"	"likely to have potential implications in management of HBV-HIV co-infected patients"	
+
+"patients"	"be taking"	"warfarin"	
+
+"Physicians"	"be aware of"	"potential interaction"	
+
+"Physicians"	"be"	"aware"	
+
+"Physicians"	"use"	"caution"	
+
+"patients"	"be requiring concurrent use of"	"statins"	
+
+"patients"	"be requiring concurrent use of"	"CYP3A4 inhibitors"	
+
+"patients"	"be requiring concurrent use of"	"pravastatin"	
+
+"patients"	"be requiring concurrent use of"	"fluvastatin"	
+
+"patients"	"be requiring concurrent use of"	"rosuvastatin"	
+
+"atorvastatin"	"carries"	"moderate risk"	
+
+"simvastatin"	"have"	"highest risk"	
+
+"lovastatin"	"have"	"highest risk"	
+
+"simvastatin"	"be avoided in"	"patients taking concomitant CYP3A4 inhibitors"	
+
+"lovastatin"	"be avoided in"	"patients taking concomitant CYP3A4 inhibitors"	
+
+"patients"	"be taking"	"concomitant CYP3A4 inhibitors"	
+
+"Acute myocarditis"	"be associated with"	"clozapine"	
+
+"implications for recommendations regarding use of clozapine"	"There are"	"also"	
+
+"implications for regulations"	"There are"	"also"	
+
+"implications for recommendations regarding use of clozapine"	"There are"	
+
+"implications for regulations"	"There are"	
+
+"We"	"concluded"	"critical time window for systemic lipopolysaccharide pretreatment in exerting effective protection against methamphetamine-induced nigrostriatal dopamine neurotoxicity"	
+
+"novel compound"	"is"	"maltolyl p-coumarate"	
+
+"novel compound"	"attenuates"	"cognitive deficits"	
+
+"novel compound"	"shows neuroprotective effects"	"in vitro"	
+
+"novel compound"	"shows neuroprotective effects"	"in dementia models"	
+
+"that"	"is characterized by"	"wide spread neuronal death"	
+
+"that"	"is characterized by progressive decline of"	"cognitive function"	
+
+"Taking these in vivo"	"results"	"together"	
+
+"our"	"has"	"study"	
+
+"maltolyl p-coumarate"	"is effective candidate against"	"Alzheimer 's disease"	
+
+(our study, )
+"maltolyl p-coumarate"	"is"	"potentially effective candidate"	
+
+(our study, )
+"Alzheimer"	"has"	"disease"	
+
+(our study, )
+"Taking these in vitro"	"results"	"together"	
+
+(our study, )
+"Taking these"	"results"	"together"	
+
+(our study, )
+"Renally Impaired Patients"	"is"	"CARE"	
+
+"QUANT_S_1 true difference between agents"	"is"	"small to be clinically significant"	
+
+"QUANT_S_1 true difference between agents"	"is"	"small to be significant"	
+
+"QUANT_S_1 true difference between agents"	"is"	"not likely to be clinically significant"	
+
+"QUANT_S_1 true difference between agents"	"is"	"not likely to be significant"	
+
+"study"	"provides new insights into protein In"	"conclusion"	
+
+"study"	"provides new insights into"	"protein"	
+
+"contribution of primary thrombotic effect of cocaine"	"has been excluded"	"Finally"	
+
+"contribution of primary thrombotic effect of cocaine"	"has been excluded"	
+
+"could cost-savings alternative to cardiac imaging"	"be detect"	"myocardial ischemia"	
+
+"could cost-savings alternative to perfusion studies"	"be detect"	"myocardial ischemia"	
+
+"ECG alone"	"is used for"	"specificity"	
+
+"combination with dP/dtejc"	"improved sensitivity of test especially in"	"patients unable to exercise"	
+
+"combination with dP/dtejc"	"improved sensitivity of"	"test"	
+
+"combination with dP/dtejc"	"be cost-savings alternative to"	"cardiac imaging"	
+
+"combination with dP/dtejc"	"be cost-savings alternative to"	"perfusion studies"	
+
+"combination with dP/dtejc"	"be cost-savings alternative to detect"	"myocardial ischemia"	
+
+"combination with dP/dtejc"	"be"	"cost-savings alternative"	
+
+"posterior sub-Tenon"	"has"	"space"	
+
+"QUANT_S_1 adverse effects"	"were"	"self-limiting"	
+
+"our"	"has"	"previous findings"	
+
+"allopurinol"	"failed to prevent"	"adrenocorticotrophic hormone"	
+
+"XO activity"	"is major determinant of"	"GC-HT"	
+
+"XO activity"	"is major determinant in"	"rat"	
+
+"XO activity"	"is"	"major determinant"	
+
+"Upregulation of brain expression of P-glycoprotein"	"rats resembles"	"seizure-induced up-regulation of drug efflux transporter in normal rats"	
+
+"rats"	"Upregulation of brain expression of P-glycoprotein resembles"	"seizure-induced up-regulation of drug efflux transporter in normal rats"	
+
+"seizures"	"is"	"pgp-enhancing event"	
+
+"TR rats"	"are interesting tool to study"	"consequences of overexpression of Pgp in BBB on access of drugs in brain without need of inducing other Pgp-enhancing events for purpose"	
+
+"that interesting tool"	"be study consequences of overexpression of Pgp in"	"BBB without need of inducing other Pgp-enhancing events for purpose"	
+
+"our"	"has"	"data"	
+
+"TR rats"	"are interesting tool to study"	"consequences of overexpression of Pgp in BBB on access of drugs in brain without need of inducing seizures for purpose"	
+
+(our data, )
+"TR rats"	"are"	"interesting tool"	
+
+(our data, )
+"that interesting tool"	"be study consequences of overexpression of Pgp in"	"BBB on access of drugs in brain"	
+
+(our data, )
+"that interesting tool"	"be study consequences of overexpression of Pgp in"	"BBB without need of inducing seizures for purpose"	
+
+(our data, )
+"that interesting tool"	"be study consequences of overexpression of Pgp in"	"BBB"	
+
+(our data, )
+"TR rats"	"are interesting tool to study"	"consequences of overexpression of Pgp in BBB on access of drugs in brain without need of inducing for purpose"	
+
+(our data, )
+"that interesting tool"	"be study consequences of overexpression of Pgp in"	"BBB without need of inducing for purpose"	
+
+(our data, )
+"study"	"provides useful animal model for"	"understanding neuropathological processes underlying autism spectrum disorders"	
+
+"neuropathological processes"	"be underlying"	"autism spectrum disorders"	
+
+"Simvastatin-induced bilateral leg compartment syndrome"	"be associated with"	"hypothyroidism"	
+
+"myonecrosis"	"be associated with"	"hypothyroidism"	
+
+"complication"	"be seen more with increased worldwide use of"	"drug"	
+
+"complication"	"be seen more with approval for"	"QUANT_O_1 arteriopathic patients"	
+
+"complication"	"be seen"	"more often"	
+
+"its"	"has approval for"	"QUANT_O_1 arteriopathic patients"	
+
+"smoking during pregnancy"	"Does affect"	"amplitudes of transient evoked otoacoustic emissions in newborns"	
+
+"Further studies"	"are needed in to establish"	"potential negative effect of maternal smoking on neonate 's hearing acuity"	
+
+"neonate"	"has"	"hearing acuity"	
+
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"penicillin derivatives"	"are known to induce such types of"	"lesions"	
+
+"amoxicillin alone"	"are known to induce such types of"	"lesions"	
+
+"amoxicillin component with potentiating effect of clavulanic acid"	"have major role As"	"amoxicillin alone are known to induce such types of lesions"	
+
+"amoxicillin component without"	"have major role As"	"amoxicillin alone are known to induce such types of lesions"	
+
+"amoxicillin component with potentiating effect of clavulanic acid"	"have"	"major role"	
+
+"amoxicillin component without"	"have"	"major role"	
+
+"clonidine-like drugs"	"represent novel structures for"	"future HCN channel inhibitors"	
+
+"Direct inhibition of cardiac HCN pacemaker channels"	"contributes to bradycardic effects of"	"clonidine gene-targeted mice in vivo"	
+
+"postjunctional beta-adrenoceptor-mediated relaxations"	"are reduced"	
+
+"effects by prejunctional inhibitory muscarinic receptors"	"be increased"	
+
+"Use of chromosome substitution strains"	"be identify seizure susceptibility loci in"	"mice"	
+
+"approach"	"provides"	"framework for identifying potentially novel homologous candidate genes for human temporal lobe epilepsy"	
+
+"MHC-I"	"be associated with"	"statin therapy"	
+
+"mechanism of myopathy"	"is"	"uncertain"	
+
+"mechanism of myopathy"	"involve"	"induction by statins of endoplasmic reticulum stress response with associated up-regulation of MHC-I expression by muscle fibres"	
+
+"mechanism of myopathy"	"involve"	"induction by statins of endoplasmic reticulum stress response with associated up-regulation of antigen presentation by muscle fibres"	
+
+"children"	"be treated for"	"malignant mesenchymal tumors"	
+
+"low percentage of TDFS"	"is"	"QUANT_O_1"	
+
+"low percentage of TDFS"	"be evaluated with"	"respect to efficacy of ifosfamide in treatment of mesenchymal tumors in children"	
+
+"possibility of de glomerular pathology under SRL treatment"	"requires further investigation by"	"renal biopsy"	
+
+"Further long-term analysis of renal allograft studies"	"be using sirolimus as de immunosuppression along with"	"clinical studies"	
+
+"Further long-term analysis of renal allograft studies"	"be using sirolimus as de immunosuppression along with"	"laboratory studies"	
+
+"Further long-term analysis of renal allograft studies using sirolimus as de immunosuppression along with clinical studies"	"refine issues in"	"the future"	
+
+"Further long-term analysis of renal allograft studies using sirolimus as de immunosuppression along with laboratory studies"	"refine issues in"	"the future"	
+
+"Further long-term analysis of renal allograft studies using sirolimus as de immunosuppression along with clinical studies"	"refine"	"issues"	
+
+"Further long-term analysis of renal allograft studies using sirolimus as de immunosuppression along with laboratory studies"	"refine"	"issues"	
+
+"case"	"illustrates"	"importance of maintaining preparedness for managing rare reactions in volunteer apheresis blood donors"	
+
+"case"	"illustrates"	"importance of maintaining preparedness for managing serious reactions in volunteer apheresis blood donors"	
+
+"Treatment with Ato"	"improved"	"endothelial function"	
+
+"Treatment with Ato"	"reduced"	"superoxide production"	
+
+"Treatment with Ato"	"reduced SBP in"	"Dex-treated SD rats"	
+
+"Treatment with Ato"	"reduced"	"SBP"	
+
+"percutaneous methods for exclusion of left atrial appendage"	"are under investigation in"	"high-risk patients"	
+
+"High-dose testosterone"	"is associated with atherosclerosis in"	"postmenopausal women"	
+
+"androgen replacement in women"	"be"	"harmless"	
+
+"Our"	"has"	"results"	
+
+"high-dose testosterone therapy"	"affect atherosclerosis in"	"postmenopausal women"	
+
+(Our results, )
+"epidural steroid injections"	"is"	"important"	
+
+"thioperamide"	"is selective H3-receptor antagonist in"	"mice"	
+
+"Findings"	"suggest"	"potential for H receptor antagonists in improving refractory cases of schizophrenia"	
+
+"H"	"is"	"QUANT_O_1"	
+
+"Cerebral haemorrhage"	"be induced by"	"warfarin"	
+
+"drugs"	"be known to interact with"	"warfarin"	
+
+"Valproic acid"	"induced"	"encephalopathy"	
+
+"side effect"	"be associated to VPA-therapy in"	"young children"	
+
+"side effect"	"be associated to"	"VPA-therapy"	
+
+"none of whom"	"had been published"	"previously"	
+
+"We"	"report"	"QUANT_O_1 patients with VPA-associated encephalopathy in Germany from the years 1994 to 2003"	
+
+"DCE"	"prove to be"	"useful remedy for management of cognitive dysfunctions"	
+
+"DCE"	"prove to be"	"useful remedy on account of memory improving property"	
+
+"DCE"	"prove to be"	"useful remedy"	
+
+"its"	"has multifarious beneficial effects such as"	"memory improving property"	
+
+"memory"	"be improving"	"property"	
+
+"memory improving property"	"is"	"cholesterol lowering property activity"	
+
+"memory improving property"	"is"	"cholesterol lowering anticholinesterase activity"	
+
+"cholesterol"	"be lowering"	"property activity"	
+
+"cholesterol"	"be lowering"	"anticholinesterase activity"	
+
+"intensivists"	"consider intoxications with cholinergics Especially in"	"old patients"	
+
+"intensivists"	"consider intoxications with cholinergics as cause of"	"acute cardiovascular failure"	
+
+"intensivists"	"consider intoxications with"	"cholinergics"	
+
+"dose adjustment"	"be necessary during concomitant treatment with"	"cinacalcet"	
+
+(These data, )
+"dose adjustment"	"be necessary for"	"drugs"	
+
+(These data, )
+"dose adjustment"	"be"	"necessary"	
+
+(These data, )
+"drugs"	"demonstrate"	"narrow therapeutic index"	
+
+"drugs"	"are metabolized by"	"CYP2D6"	
+
+"amsacrine analogue CI-921"	"is"	"NSC QUANT_O_1"	
+
+"Further testing in this"	"be using"	"multiple daily schedules"	
+
+"Further testing in other tumour types"	"be using"	"multiple daily schedules"	
+
+"Further testing in using multiple daily schedules"	"is warranted"	
+
+"Further testing in other tumour types using multiple daily schedules"	"is warranted"	
+
+"MDMA polydrug users"	"show process-specific central executive impairments coupled with"	"impaired social judgement processes"	
+
+"MDMA polydrug users"	"show process-specific central executive impairments coupled with"	"emotional judgement processes"	
+
+"process-specific central executive impairments"	"be coupled with"	"impaired social judgement processes"	
+
+"process-specific central executive impairments"	"be coupled with"	"emotional judgement processes"	
+
+"that cognitive processes mediated by prefrontal cortex"	"be impaired by recreational ecstasy use"	"proposal"	
+
+"that cognitive processes mediated by prefrontal cortex"	"be impaired"	"proposal"	
+
+"data"	"lend further support to"	"proposal"	
+
+"data"	"lend"	"further support"	
+
+"that cognitive processes"	"be mediated by"	"prefrontal cortex"	
+
+"potential side-effect"	"represents"	"QUANT_O_1 more reason to be very restrictive in use of methylphenidate"	
+
+"QUANT_S_1 more reason"	"be restrictive very"	"restrictive in use of methylphenidate"	
+
+"QUANT_S_1 more reason"	"be restrictive very"	"restrictive"	
+
+"Ketoconazole"	"induced torsades de pointes without concomitant use of"	"QT interval-prolonging drug"	
+
+"Ketoconazole"	"induced torsades de"	"pointes"	
+
+"This"	"calls for"	"attention"	
+
+"ketoconazole"	"is administered to patients with risk factors for"	"acquired long QT syndrome"	
+
+"ketoconazole"	"is administered to patients with"	"risk factors"	
+
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"experimental model of epilepsy"	"be induced by"	"pilocarpine"	
+
+"our"	"has"	"results"	
+
+"FRs"	"be generated during"	"acute phase"	
+
+(our results, )
+"FRs generated during acute phase"	"determined important abnormalities in mtDNA in expression of"	"CCO-I"	
+
+(our results, )
+"FRs generated during acute phase"	"determined important abnormalities in"	"mtDNA"	
+
+(our results, )
+"evidences of mitochondrial abnormalities"	"were found in"	"previously published studies"	
+
+(our results, )
+"results"	"do suggest in"	"CCO activity"	
+
+"gabapentin"	"is more"	"effective"	
+
+"gabapentin"	"is"	"effective"	
+
+"central sensitization"	"is"	"present"	
+
+"gabapentin"	"has"	"measurable antinociceptive effect"	
+
+"gabapentin"	"has stronger antihyperalgesic effect most evident in"	"brain areas undergoing deactivation"	
+
+"brain areas"	"be undergoing"	"deactivation"	
+
+"Safety profile of nicotine lozenge"	"be compared with"	"that of nicotine gum in adult smokers with underlying medical conditions"	
+
+"4-mg nicotine lozenge"	"had comparable safety profiles in patients with"	"label-restricted medical conditions"	
+
+"4-mg nicotine gum"	"had comparable safety profiles in patients with"	"label-restricted medical conditions"	
+
+"4-mg nicotine lozenge"	"had"	"comparable safety profiles"	
+
+"4-mg nicotine gum"	"had"	"comparable safety profiles"	
+
+"L-NAME"	"reduced gentamicin-induced hearing loss in"	"high-frequency range"	
+
+"L-NAME"	"reduced"	"gentamicin-induced hearing loss"	
+
+"L-NAME"	"gave protection in"	"middle frequencies"	
+
+"L-NAME"	"gave protection in"	"low frequencies"	
+
+"L-NAME"	"gave"	"QUANT_O_1 protection"	
+
+"effect"	"be related to"	"pharmacological effect of drug on mucous membranes"	
+
+"problems in diagnosing condition"	"are discussed"	"subsequently"	
+
+"problems in diagnosing condition"	"are discussed"	
+
+"increased risk of venous thromboembolism due to raloxifene treatment"	"be related to increased"	"tPA levels"	
+
+(We, )
+"We"	"suggest"	"TAFI levels"	
+
+"amnesia"	"be caused by"	"pentobarbital"	
+
+"brain-dissociated state"	"be induced by"	"pentobarbital"	
+
+(These findings, )
+"brain-dissociated state induced by pentobarbital"	"is formed with"	"participation of mechanisms of information perception"	
+
+(These findings, )
+"urotensin-II"	"be administered in"	"mice"	
+
+"urotensin-II"	"be administered"	"centrally"	
+
+"U-II"	"be involved in QUANT_O_1 aspects of"	"psychiatric disorders"	
+
+(These data, )
+"QUANT_S_1 of cocaine abusers"	"had"	"ECG evidence of significant myocardial injury defined as myocardial infarction"	
+
+"QUANT_S_1 of cocaine abusers"	"had"	"ECG evidence of significant myocardial injury defined as ischemia"	
+
+"QUANT_S_1 of cocaine abusers"	"had"	"ECG evidence of significant myocardial injury defined as bundle branch block"	
+
+"none of controls"	"had"	"ECG evidence of significant myocardial injury defined as myocardial infarction"	
+
+"none of controls"	"had"	"ECG evidence of significant myocardial injury defined as ischemia"	
+
+"none of controls"	"had"	"ECG evidence of significant myocardial injury defined as bundle branch block"	
+
+"significant myocardial injury"	"be defined as"	"myocardial infarction"	
+
+"significant myocardial injury"	"be defined as"	"ischemia"	
+
+"significant myocardial injury"	"be defined as"	"bundle branch block"	
+
+"results"	"support important potential of GNC92H2 as therapeutic tool against"	"cocaine overdose"	
+
+"results"	"support important potential of"	"GNC92H2"	
+
+"selective 5-HT6 receptor antagonist"	"restores"	"memory performance in cholinergic models of memory deficiency in rat"	
+
+"selective 5-HT6 receptor antagonist"	"restores"	"memory performance in serotonergic models of memory deficiency in rat"	
+
+"Ro4368554"	"did improve"	"time-related retention deficit"	
+
+"it"	"be suggesting"	"possibly QUANT_O_1 receptor antagonists"	
+
+"it"	"reversed cholinergic In"	"conclusion"	
+
+"it"	"reversed serotonergic memory deficit In"	"conclusion"	
+
+"it"	"reversed cholinergic"	"suggesting possibly QUANT_O_1 receptor antagonists"	
+
+"it"	"reversed serotonergic memory deficit"	"suggesting possibly QUANT_O_1 receptor antagonists"	
+
+"it"	"reversed"	"cholinergic"	
+
+"it"	"reversed"	"serotonergic memory deficit"	
+
+"mechanisms"	"be involved in facilitation of object memory by"	"Ro4368554"	
+
+"mechanisms"	"be involved in facilitation of"	"object memory"	
+
+"Seizures"	"be induced by cocaine metabolite benzoylecgonine in"	"rats"	
+
+"cocaine"	"differ in"	"QUANT_O_1 respects"	
+
+"BE-induced seizures"	"differ in"	"QUANT_O_1 respects"	
+
+"finding that cocaine differ in QUANT_S_1 respects"	"suggests QUANT_O_1 mechanism for"	"cocaine-induced seizures"	
+
+"finding that BE-induced seizures differ in QUANT_S_1 respects"	"suggests QUANT_O_1 mechanism for"	"cocaine-induced seizures"	
+
+"finding that cocaine differ in QUANT_S_1 respects"	"emphasizes importance of"	"cocaine metabolite"	
+
+"finding that BE-induced seizures differ in QUANT_S_1 respects"	"emphasizes importance of"	"cocaine metabolite"	
+
+"Lone atrial fibrillation"	"be associated with"	"creatine monohydrate supplementation"	
+
+"adverse effects"	"be associated with consumed supplements to"	"Food Administration"	
+
+"adverse effects"	"be associated with consumed supplements to"	"Drug Administration"	
+
+"adverse effects"	"be associated with herbal products to"	"Food Administration"	
+
+"adverse effects"	"be associated with herbal products to"	"Drug Administration"	
+
+"adverse effects"	"be associated with"	"frequently consumed supplements"	
+
+"adverse effects"	"be associated with"	"herbal products"	
+
+"it"	"is"	"important to report adverse effects associated with frequently consumed supplements to Food Administration In addition"	
+
+"it"	"is"	"important to report adverse effects associated with herbal products to Food and Drug Administration In addition"	
+
+"it"	"is"	"important to report adverse effects associated with frequently consumed supplements to Drug Administration In addition"	
+
+"it"	"is"	"important in literature In addition"	
+
+"it"	"is"	"important to report adverse effects associated with frequently consumed supplements to Food Administration"	
+
+"it"	"is"	"important to report adverse effects associated with herbal products to Food and Drug Administration"	
+
+"it"	"is"	"important to report adverse effects associated with frequently consumed supplements to Drug Administration"	
+
+"it"	"is important in"	"literature"	
+
+"WUBR Wistar rats"	"is"	"WI"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase risk of ventricular septal defects in rat when"	"compared to non-selective drugs"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase risk of ventricular septal defects in rat when"	"compared to historic control"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase risk of midline defects in rat when"	"compared to non-selective drugs"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase risk of midline defects in rat when"	"compared to historic control"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase"	"risk of ventricular septal defects in rat"	
+
+"Prenatal exposure to selective COX-2 inhibitors"	"does increase"	"risk of midline defects in rat"	
+
+"patients"	"be receiving"	"kidney transplantation"	
+
+"frequency of thrombotic microangiopathy"	"was similar In"	"current study"	
+
+"frequency of thrombotic microangiopathy"	"was similar to percentage reported in"	"literature"	
+
+"frequency of thrombotic microangiopathy"	"was"	"similar"	
+
+"percentage"	"be reported in"	"literature"	
+
+"patient"	"was treated with"	"graft stent"	
+
+"incidence of pseudolithiasis"	"is affected by"	"fasting"	
+
+"Acute reserpine"	"change"	"synaptosomal brain glutamate uptake"	
+
+"subchronic haloperidol treatments"	"change"	"synaptosomal brain glutamate uptake"	
+
+"Acute reserpine"	"elicit orofacial dyskinesia in"	"rats"	
+
+"subchronic haloperidol treatments"	"elicit orofacial dyskinesia in"	"rats"	
+
+"early changes in glutamate transport"	"be related to"	"development of vacuous chewing movements in rats"	
+
+"difference"	"is explained by"	"patient comorbidities"	
+
+"difference"	"is explained by more frequent use of"	"beta-blockers"	
+
+"Recurrent acute interstitial nephritis"	"be induced by"	"azithromycin"	
+
+"most cases of antibiotic induced acute interstitial nephritis"	"are"	"benign"	
+
+"most cases of antibiotic induced acute interstitial nephritis"	"are"	"self-limited"	
+
+"QUANT_S_1 patients"	"are at risk for permanent renal injury"	"self-limited"	
+
+"QUANT_S_1 patients"	"are at risk for"	"permanent renal injury"	
+
+"Individual differences in renal ACE activity in healthy rats"	"predict"	"susceptibility to adriamycin-induced renal damage"	
+
+"differences in renal ACE activity"	"predispose to less favourable course of"	"renal damage"	
+
+"Regular audiologic evaluation"	"is imperative in"	"QUANT_O_1 thalassemic patients"	
+
+"Regular audiologic evaluation"	"is"	"imperative"	
+
+"early changes"	"be recognized"	
+
+"treatment"	"be adjusted in to"	"prevent"	
+
+"treatment"	"be adjusted"	"reverse hearing impairment"	
+
+"daily exercise"	"is"	"optimal functioning"	
+
+"physical therapy"	"is"	"optimal functioning"	
+
+"Nonpharmacologic concerns"	"help"	"maintain"	
+
+"Parkinson"	"has"	"disease patient"	
+
+"Parkinson 's disease patient"	"achieve"	"optimal functioning including daily exercise"	
+
+"Parkinson 's disease patient"	"achieve"	"optimal functioning including physical therapy"	
+
+"Parkinson 's disease patient"	"achieve optimal functioning including involvement with"	"support groups"	
+
+"Parkinson 's disease patient"	"maintain"	
+
+"Safety"	"be associated with"	"raloxifene"	
+
+"adverse effects"	"be associated with"	"raloxifene"	
+
+"Tremor side effects of salbutamol"	"be quantified by"	"laser pointer technique"	
+
+"Quantifying tremor by using inexpensive laser pointer"	"is with exception of"	"children"	
+
+"Cardiac toxicity"	"be observed in"	"association with high-dose cyclophosphamide-based chemotherapy for metastatic breast cancer"	
+
+"Routine EKG monitoring during infusional cyclophosphamide"	"did predict"	"CHF development"	
+
+"sevoflurane"	"reduces convulsive effect of"	"lidocaine toxicity"	
+
+(It, )
+"It"	"is suggested"	"carries QUANT_O_1 risk due to circulatory depression"	
+
+"sevoflurane"	"carries"	"QUANT_O_1 risk due to circulatory depression"	
+
+"alpha3"	"are necessary for nicotine-induced seizures in"	"mice"	
+
+"alpha3"	"are necessary for"	"hypolocomotion"	
+
+"beta4 nicotinic acetylcholine receptor subunits"	"are necessary for nicotine-induced seizures in"	"mice"	
+
+"beta4 nicotinic acetylcholine receptor subunits"	"are necessary for"	"hypolocomotion"	
+
+"alpha3"	"are"	"necessary"	
+
+"beta4 nicotinic acetylcholine receptor subunits"	"are"	"necessary"	
+
+"beta4"	"are mediators of"	"nicotine-induced seizures"	
+
+(these results, )
+"beta4"	"are"	"mediators"	
+
+(these results, )
+"beta4"	"are mediators of"	"hypolocomotion"	
+
+"alpha3 subunits"	"are mediators of"	"nicotine-induced seizures"	
+
+"alpha3 subunits"	"are mediators of"	"hypolocomotion"	
+
+"alpha3 subunits"	"are"	"mediators"	
+
+"lignocaine QUANT_S_1"	"is"	"lidocaine"	
+
+"Patients"	"be warned about side effects of"	"vertigo"	
+
+"Patients"	"be warned about"	"will be alleviated"	
+
+"tinnitus"	"be enabling them to cope more easily with"	"disease"	
+
+"tinnitus"	"be enabling them"	"lead more normal life"	
+
+"tinnitus"	"disappear"	"enabling them to cope more easily with disease"	
+
+"tinnitus"	"disappear"	"enabling them lead more normal life"	
+
+"tinnitus"	"be alleviated"	
+
+"pretreatment with TCR"	"be useful in"	"preventing damage induced by isoproterenol in rat heart"	
+
+(The results, )
+"pretreatment with TCR"	"be"	"useful"	
+
+(The results, )
+"damage"	"be induced by isoproterenol in"	"rat heart"	
+
+(The results, )
+"medical errors"	"be avoided through"	"improved medication labeling"	
+
+"medical errors"	"be avoided through"	"staff supervision"	
+
+"Our"	"has"	"case"	
+
+"case"	"illustrates serious consequences of"	"medical errors"	
+
+"estrogen"	"downregulates"	"alpha2"	
+
+(These findings, )
+"estrogen"	"downregulates"	
+
+(These findings, )
+"estrogen"	"highlight"	"role for cardiac autonomic control in alpha-methyldopa-estrogen interaction"	
+
+(These findings, )
+"findings"	"suggest"	"highlight role for cardiac autonomic control in alpha-methyldopa-estrogen interaction"	
+
+"estrogen"	"downregulates"	"I1-receptor-mediated hypotension"	
+
+"Wegener"	"has"	"granulomatosis"	
+
+"results"	"indicate"	"dose-response relationship between cyclophosphamide and risk of bladder cancer"	
+
+"results"	"indicate high cumulative risks in"	"entire cohort"	
+
+"results"	"indicate"	"also possibility of risk factors operating even before Wegener 's granulomatosis"	
+
+"risk factors"	"be operating before"	"Wegener 's granulomatosis"	
+
+"Wegener"	"has"	"granulomatosis"	
+
+"SE-induced mossy fiber synaptic"	"be sprouting"	
+
+"SE-induced mossy fiber sprouting"	"are relevant characteristics of seizure development in"	"murine strains"	
+
+"SE-induced mossy fiber synaptic"	"are relevant characteristics of seizure development in"	"murine strains"	
+
+"SE-induced mossy fiber sprouting"	"are relevant characteristics resembling rat models of"	"human temporal lobe epilepsy"	
+
+"SE-induced mossy fiber synaptic"	"are relevant characteristics resembling rat models of"	"human temporal lobe epilepsy"	
+
+"SE-induced mossy fiber sprouting"	"are"	"relevant characteristics"	
+
+"SE-induced mossy fiber synaptic"	"are"	"relevant characteristics"	
+
+"that relevant characteristics of seizure development in murine strains"	"be resembling rat models of"	"human temporal lobe epilepsy"	
+
+"pyridoxine-dependent behavioral disorder"	"be unmasked by"	"isoniazid"	
+
+"patient"	"has been followed for"	"QUANT_O_1 years"	
+
+"patient"	"has required pharmacologic doses of pyridoxine to control"	"behavior"	
+
+"patient"	"has required pharmacologic doses of"	"pyridoxine"	
+
+"has required pharmacologic doses of pyridoxine"	"be control"	"behavior"	
+
+"her"	"has"	"behavior"	
+
+"CPA in combination with atropine"	"prevented occurrence of serious signs of poisoning In"	"conclusion"	
+
+"diazepam"	"prevented occurrence of serious signs of poisoning In"	"conclusion"	
+
+"2PAM"	"prevented occurrence of serious signs of poisoning In"	"conclusion"	
+
+"CPA in combination with atropine"	"prevented"	"occurrence of serious signs of poisoning"	
+
+"diazepam"	"prevented"	"occurrence of serious signs of poisoning"	
+
+"2PAM"	"prevented"	"occurrence of serious signs of poisoning"	
+
+"CPA in combination with atropine"	"reduced"	"toxicity of DFP in rat"	
+
+"diazepam"	"reduced"	"toxicity of DFP in rat"	
+
+"2PAM"	"reduced"	"toxicity of DFP in rat"	
+
+"Noxious chemical stimulation of rat facial mucosa"	"increases intracranial blood flow through"	"trigemino-parasympathetic reflex"	
+
+"Noxious chemical stimulation of rat facial mucosa"	"increases"	"intracranial blood flow"	
+
+"Similar mechanisms"	"be involved in pathogenesis of"	"cluster headache"	
+
+"Transient platypnea-orthodeoxia-like syndrome"	"be induced by propafenone overdose in young woman with"	"Ebstein 's anomaly"	
+
+"Transient platypnea-orthodeoxia-like syndrome"	"be induced by"	"propafenone overdose"	
+
+"Ebstein"	"has"	"anomaly"	
+
+"our"	"has"	"case"	
+
+"interatrial shunt"	"was detected at bubble contrast In"	"case"	
+
+"interatrial shunt"	"was detected at bubble contrast"	"very accurately"	
+
+"interatrial shunt"	"was detected at"	"bubble contrast"	
+
+"beverages"	"be containing"	"quinine"	
+
+"Psychologists"	"need to inquire about"	"consumption of quinine-containing beverages as part of evaluation process"	
+
+"Psychologists"	"need to inquire about consumption of"	"quinine-containing beverages"	
+
+"psychotic symptoms"	"occur following phenytoin treatment in"	"QUANT_O_1 epileptic patients"	
+
+"psychotic symptoms"	"be direct result unrelated to seizures of"	"medication"	
+
+(This case, )
+"psychotic symptoms"	"be"	"direct result unrelated to seizures"	
+
+(This case, )
+"form of therapy"	"offer safe alternative In"	"future"	
+
+"form of therapy"	"offer safe alternative in treatment of"	"cyclophosphamide-induced hemorrhagic cystitis"	
+
+"form of therapy"	"offer"	"safe alternative"	
+
+"plasma calcitonin gene-related peptide"	"is"	"CGRP"	
+
+"serotonin release from platelets"	"does provoke migraine In"	"contrast"	
+
+"serotonin release from platelets"	"does provoke"	"migraine"	
+
+"it"	"counteract"	"headache"	
+
+"it"	"counteract concomitant CGRP release in"	"model"	
+
+"It"	"is"	"important to recognize rare toxicity of AmB"	
+
+"It"	"is"	"important to recognize potentially reversible toxicity of AmB"	
+
+"diet"	"be promoting"	"sugar dependency"	
+
+"diet promoting sugar dependency"	"causes behavioral cross-sensitization to low dose of"	"amphetamine"	
+
+"diet promoting sugar dependency"	"causes"	"behavioral cross-sensitization"	
+
+"diet"	"comprised of"	"alternating deprivation"	
+
+(These results, )
+"diet"	"comprised of"	"access to sugar solution"	
+
+"diet"	"comprised of"	"chow"	
+
+"bingeing on sugar"	"leads to long lasting state of increased sensitivity to amphetamine"	"possibly due to lasting alteration in dopamine system"	
+
+"bingeing on sugar"	"leads"	"possibly due to lasting alteration in dopamine system"	
+
+"Development of levodopa-induced dyskinesias in parkinsonian monkeys"	"depend upon rate of"	"symptom onset"	
+
+"Development of levodopa-induced dyskinesias in parkinsonian monkeys"	"depend upon duration of"	"symptoms"	
+
+"data"	"suggest"	"distinct differences in propensity to develop LIDs in monkeys with different rates of symptom progression prior to levodopa"	
+
+"data"	"suggest"	"distinct differences in propensity to develop LIDs in monkeys with different rates of symptom durations prior to levodopa"	
+
+"data"	"demonstrate"	"value of models for further studying pathophysiology of LIDs"	
+
+"propensity"	"be develop LIDs in monkeys with"	"different rates of symptom progression prior to levodopa"	
+
+"propensity"	"be develop LIDs in monkeys with"	"different rates of symptom durations prior to levodopa"	
+
+"propensity"	"be develop LIDs in monkeys with different rates of"	"symptom progression"	
+
+"propensity"	"be develop LIDs in monkeys with different rates of"	"symptom durations"	
+
+"case"	"illustrates"	"need for close vigilance in adverse drug reactions particularly in elderly"	
+
+"LY274614"	"is"	"excitatory amino acid antagonist"	
+
+"LY274614"	"is NMDA receptor antagonist with long-lasting in effects in"	"rats"	
+
+"LY274614"	"is"	"NMDA receptor antagonist"	
+
+"neurotoxic effect of amphetamine toward nigrostriatal dopamine neurons"	"involves"	"NMDA receptors"	
+
+"neurotoxic effect of related compounds toward nigrostriatal dopamine neurons"	"involves"	"NMDA receptors"	
+
+"depressive status"	"be associated with"	"topical beta-blockers"	
+
+"betaxolol"	"be less of"	"depression-inducer"	
+
+(These results, )
+"betaxolol"	"be less than timolol in"	"predisposed patients"	
+
+(These results, )
+"betaxolol"	"be"	"less"	
+
+(These results, )
+"Crohn"	"has"	"disease"	
+
+"role of treatment"	"be investigated"	"further"	
+
+(we, )
+"role of treatment"	"be investigated"	
+
+(we, )
+"ABSTRACT"	"TRUNCATED AT"	"QUANT_O_1 WORDS"	
+
+"those"	"mediate"	"activity-increasing effects of morphine in rats"	
+
+"activity-increasing effects of morphine in mice"	"are mediated by mechanisms different from"	"those"	
+
+(It, )
+"findings"	"demonstrate"	"add to growing literature on potential use in modulation of effects of drugs of abuse"	
+
+"QUANT_S_1 neuroactive steroids"	"attenuate convulsant of"	"cocaine"	
+
+"QUANT_S_1 neuroactive steroids"	"attenuate"	"sensitizing properties"	
+
+"QUANT_S_1 neuroactive steroids"	"add to"	"growing literature on potential use in modulation of effects of drugs of abuse"	
+
+"their"	"has"	"potential use in modulation of effects of drugs of abuse"	
+
+"MPEP"	"is"	"selective mGluR5 antagonist"	
+
+"Neuroprotective action of MPEP in methamphetamine-induced dopaminergic neurotoxicity"	"is associated with decrease in"	"dopamine outflow"	
+
+"Neuroprotective action of MPEP in methamphetamine-induced dopaminergic neurotoxicity"	"is associated with"	"inhibition of hyperthermia in rats"	
+
+"Neuroprotection"	"be rendered by"	"MPEP"	
+
+"Neuroprotection rendered by MPEP"	"be associated with"	"reduction of methamphetamine-induced dopamine efflux in striatum due to blockade of extrastriatal mGluR5"	
+
+"Delirium"	"was recognized"	"clinically"	
+
+"Delirium"	"was recognized in"	"milder cases"	
+
+"Delirium"	"was associated with"	"increased length-of-stay"	
+
+"Delirium"	"was associated with"	"higher costs"	
+
+"Our"	"has"	"data"	
+
+"rHuEPO-beta correctable CAB-induced anemia"	"occurs in QUANT_R_1 of prostate cancer patients after QUANT_O_1 months of"	"therapy"	
+
+(Our data, )
+"rHuEPO-beta correctable CAB-induced anemia"	"occurs in QUANT_O_1 of"	"prostate cancer patients"	
+
+(Our data, )
+"This"	"is first case report of"	"pseudoacromegaly"	
+
+"This"	"is first case report as side effect of"	"minoxidil use"	
+
+"This"	"is"	"first case report"	
+
+"Estradiol"	"reduces seizure-induced hippocampal injury in"	"ovariectomized female"	
+
+"Estradiol"	"reduces seizure-induced hippocampal injury in"	"male rats"	
+
+"effects of estradiol on seizure threshold"	"be altered by sex-related differences in"	"hormonal environment"	
+
+(These findings, )
+"effects of estradiol on"	"be altered by sex-related differences in"	"hormonal environment"	
+
+(These findings, )
+"effects of estradiol on damage"	"be altered by sex-related differences in"	"hormonal environment"	
+
+"sensitive hemoglobin assay"	"is useful for"	"ICH detection"	
+
+(Data, )
+"sensitive hemoglobin assay"	"is"	"useful"	
+
+(Data, )
+"small ICH"	"be induced with"	"low-dose collagenase"	
+
+"model with small ICH induced with low-dose collagenase"	"be used for evaluation of"	"drugs"	
+
+"evaluation of drugs"	"affect"	"ICH"	
+
+"cortisol-induced increases in blood pressure"	"are associated with abnormalities in"	"l-arginine transport system"	
+
+"Diffusion-weighted imaging"	"be useful in"	"predicting outcomes of lesions of tacrolimus-induced neurotoxicity"	
+
+"Diffusion-weighted imaging"	"be"	"useful"	
+
+"Sub-chronic low dose gamma-vinyl GABA"	"is"	"vigabatrin"	
+
+"Sub-chronic low dose gamma-vinyl GABA"	"inhibits cocaine-induced increases in"	"nucleus accumbens dopamine"	
+
+"Sub-chronic low dose GVG"	"be reducing"	"cumulative exposures"	
+
+"Sub-chronic low dose GVG"	"be reducing risk for"	"VFDS"	
+
+"Sub-chronic low dose GVG"	"potentiates"	"effectively reducing cumulative exposures"	
+
+"Sub-chronic low dose GVG"	"potentiates reducing risk for"	"VFDS"	
+
+"Sub-chronic low dose GVG"	"extends"	"inhibition of cocaine-induced increases in dopamine"	
+
+"alphaENaC"	"is"	"ENaC mRNA expression"	
+
+"ENaC mRNA expression"	"is"	"especially alphaENaC"	
+
+"ENaC mRNA expression"	"is increased in very early phase of experimental model of PAN-induced nephrotic syndrome in rats In"	"conclusion"	
+
+"ENaC mRNA expression"	"is increased in"	"very early phase of experimental model of PAN-induced nephrotic syndrome in rats"	
+
+"ENaC mRNA expression"	"appears to escape from"	"regulation by aldosterone after day QUANT_O_1"	
+
+"ENaC mRNA expression"	"appears to escape from regulation by"	"aldosterone"	
+
+"ticlopidine"	"is being replaced by"	"newer antiplatelet agent clopidogrel"	
+
+"Clinicians"	"be aware of"	"potential complication"	
+
+"Clinicians"	"be aware when"	"adding thalidomide to chemotherapeutic regimens"	
+
+"Clinicians"	"be"	"aware"	
+
+"Further work"	"is warranted on"	"effect of treatments on renal functional aspects in models of chronic renal failure"	
+
+"mechanism involved"	"is"	"s"	
+
+"mechanism"	"be involved"	
+
+"women"	"be prescribed cyproterone acetate in combination with"	"ethinyl estradiol"	
+
+"residual confounding by indication"	"be excluded"	
+
+"We"	"have demonstrated"	"increased risk of VTE associated with use of CPA/EE in women with acne"	
+
+"We"	"have demonstrated"	"increased risk of VTE associated with use of CPA/EE in women with hirsutism"	
+
+"We"	"have demonstrated"	"increased risk of VTE associated with use of CPA/EE in women with PCOS"	
+
+"VTE"	"be associated with"	"use of CPA/EE in women with acne"	
+
+"VTE"	"be associated with"	"use of CPA/EE in women with hirsutism"	
+
+"VTE"	"be associated with"	"use of CPA/EE in women with PCOS"	
+
+"its"	"has use in"	"high-risk premature neonates"	
+
+"authors"	"discuss"	"mechanism of occurrence of complication"	
+
+"authors"	"recommend"	"caution of use in high-risk premature neonates"	
+
+"their"	"has relationship with"	"echocardiographic findings"	
+
+"their"	"has relationship with"	"histological findings"	
+
+"cell damage"	"be determined by magnitude of"	"injury"	
+
+"cell damage determined by magnitude of injury"	"induced"	
+
+"cTnT"	"be useful marker for prediction of"	"experimentally induced cardiotoxicity"	
+
+"cTnT"	"be for cardioprotective experiments for prediction of"	"experimentally induced cardiotoxicity"	
+
+"cTnT"	"be"	"useful marker"	
+
+"cTnT"	"be for"	"cardioprotective experiments"	
+
+"discrepancy between amount of cTnI after DOX"	"there was"	"probably due to heterogeneity in cross-reactivities of mAbs to QUANT_O_1 cTnI"	
+
+"discrepancy between amount of cTnI after DOX"	"there was"	"probably due to heterogeneity in cross-reactivities of mAbs to cTnT forms"	
+
+"discrepancy between amount of cTnT after DOX"	"there was"	"probably due to heterogeneity in cross-reactivities of mAbs to QUANT_O_1 cTnI"	
+
+"discrepancy between amount of cTnT after DOX"	"there was"	"probably due to heterogeneity in cross-reactivities of mAbs to cTnT forms"	
+
+"discrepancy between amount of cTnI after DOX"	"there was"	
+
+"discrepancy between amount of cTnT after DOX"	"there was"	
+
+"rat study"	"demonstrated synergistic nephrotoxic effect of CsA whereas"	"SRL was better tolerated"	
+
+"rat study"	"demonstrated synergistic nephrotoxic effect of SRL whereas"	"SRL was better tolerated"	
+
+"rat study"	"demonstrated synergistic nephrotoxic effect of"	"CsA"	
+
+"rat study"	"demonstrated synergistic nephrotoxic effect of"	"SRL"	
+
+"FK506"	"was tolerated"	"better"	
+
+"SRL"	"was tolerated"	"better"	
+
+"FK506"	"was tolerated"	
+
+"SRL"	"was tolerated"	
+
+"reduction in glomerular number"	"is sole cause for development of"	"hypertension"	
+
+"reduction in glomerular number"	"is"	"sole cause"	
+
+"animals"	"had reduction in"	"glomeruli"	
+
+"group"	"did have reduction in"	"glomerular number"	
+
+"we"	"avoid inappropriate use of anticonvulsants in children with epilepsy By understanding underlying mechanism of"	"absence epilepsy"	
+
+"we"	"avoid"	"inappropriate use of anticonvulsants in children with epilepsy"	
+
+"we"	"prevent"	"drug-induced absence seizures"	
+
+"Visual hallucinations"	"be associated with"	"zonisamide"	
+
+"clinicians"	"need to be aware of complication associated with zonisamide Until"	"then"	
+
+"clinicians"	"need to be aware Until"	"then"	
+
+"clinicians"	"need to be"	"aware of possible complication associated with zonisamide"	
+
+"clinicians"	"need to be"	"aware"	
+
+"possible complication"	"be associated with"	"zonisamide"	
+
+"further studies"	"are undertaken in"	"effort to minimize such severe side effects"	
+
+"investigations"	"are undertaken in"	"effort to minimize such severe side effects"	
+
+"effort"	"be minimize"	"such severe side effects"	
+
+"It"	"is recommended that"	"investigations are undertaken in effort to minimize such severe side effects"	
+
+"somnolence"	"is"	"QUANT_O_1"	
+
+"somnolence"	"is"	"QUANT_O_1"	
+
+"most common adverse events after rizatriptan"	"is incidence in"	"QUANT_O_1 group"	
+
+"most common adverse events after ergotamine/caffeine"	"is incidence in"	"QUANT_O_1 group"	
+
+"most common adverse events after rizatriptan"	"were"	"dizziness"	
+
+"most common adverse events after ergotamine/caffeine"	"were"	"dizziness"	
+
+"most common adverse events after rizatriptan"	"were"	"nausea"	
+
+"most common adverse events after ergotamine/caffeine"	"were"	"nausea"	
+
+"most common adverse events after rizatriptan"	"were"	"somnolence"	
+
+"most common adverse events after ergotamine/caffeine"	"were"	"somnolence"	
+
+"most common adverse events after rizatriptan respectively were dizziness"	"is"	"QUANT_O_1"	
+
+"most common adverse events after rizatriptan respectively were dizziness"	"is"	"QUANT_O_1"	
+
+"most common adverse events after ergotamine/caffeine respectively were dizziness nausea and somnolence"	"is"	"QUANT_O_1"	
+
+"most common adverse events after ergotamine/caffeine respectively were dizziness nausea and somnolence"	"is"	"QUANT_O_1"	
+
+"nausea"	"is"	"QUANT_O_1"	
+
+"nausea"	"is"	"QUANT_O_1"	
+
+"somnolence"	"is"	"QUANT_O_1"	
+
+"somnolence"	"is"	"QUANT_O_1"	
+
+"nausea"	"is"	"QUANT_O_1"	
+
+"nausea"	"is"	"QUANT_O_1"	
+
+"we"	"are seeing tip of"	"iceberg"	
+
+"moral issues relating to testing of potential cocaine users"	"be addressed"	"Finally"	
+
+"moral issues relating to testing of potential cocaine users"	"be addressed"	
+
+"moral issues"	"be relating to testing of"	"potential cocaine users"	
+
+"5-HT1B receptor ligands"	"be microinjected into accumbal shell on cocaine-induced locomotor hyperactivity in"	"rats"	
+
+"5-HT1B receptor ligands"	"be microinjected into core on cocaine-induced locomotor hyperactivity in"	"rats"	
+
+"5-HT1B receptor ligands"	"be microinjected into"	"accumbal shell"	
+
+"5-HT1B receptor ligands"	"be microinjected into"	"core"	
+
+"accumbal shell 5-HT1B receptors"	"play permissive role in"	"behavioural response to psychostimulant"	
+
+(the present results, )
+"accumbal shell 5-HT1B receptors"	"play"	"permissive role"	
+
+(the present results, )
+"Capsaicin-induced muscle pain"	"alters excitability of"	"human"	
+
+"Increased sensitivity of fusimotor system during acute muscle pain"	"be QUANT_R_1 mechanism to explain"	"findings"	
+
+"Increased sensitivity of fusimotor system during acute muscle pain"	"be"	"QUANT_O_1 likely mechanism"	
+
+"could QUANT_S_1 likely mechanism"	"be explain"	"findings"	
+
+"WSP mice"	"have"	"lower sensitivity to cholinergic convulsants"	
+
+"WSP mice"	"have lower sensitivity to cholinergic convulsants compared with"	"WSR"	
+
+"WSP mice"	"have lower sensitivity to cholinergic convulsants because of"	"postsynaptic receptor desensitization brought on by higher activity of cholinergic neurons"	
+
+"postsynaptic receptor desensitization"	"be brought by higher activity of"	"cholinergic neurons"	
+
+"endothelial cells"	"be treated with"	"EPO"	
+
+(These results, )
+"endothelial cells"	"be treated"	"simultaneously"	
+
+(These results, )
+"endothelial cells treated simultaneously with EPO"	"have negative effect on"	"erythroid cell production"	
+
+(These results, )
+"endothelial cells treated simultaneously with EPO"	"have"	"negative effect"	
+
+(These results, )
+"endothelial cells treated simultaneously with"	"have negative effect on"	"erythroid cell production"	
+
+(These results, )
+"endothelial cells treated simultaneously with"	"have"	"negative effect"	
+
+(These results, )
+"endothelial cells"	"be treated with"	"IL-3"	
+
+"endothelial cells treated simultaneously with IL-3"	"have negative effect on"	"erythroid cell production"	
+
+"endothelial cells treated simultaneously with IL-3"	"have"	"negative effect"	
+
+"Ifosfamide encephalopathy"	"be presenting with"	"asterixis"	
+
+"patient"	"be described"	
+
+(the presence of asterixis during infusion of ifosfamide studies, )
+"negative myoclonus"	"is associated with use of"	"IFX"	
+
+(the presence of asterixis during infusion of ifosfamide studies, )
+"patient"	"be described"	
+
+(the presence of asterixis during infusion of normal laboratory findings studies and the resolution of symptoms following the discontinuation of the drug, )
+"negative myoclonus"	"is associated with use of"	"IFX"	
+
+(the presence of asterixis during infusion of normal laboratory findings studies and the resolution of symptoms following the discontinuation of the drug, )
+"patient"	"be described"	
+
+(the presence of asterixis during infusion of imaging studies and the resolution of symptoms following the discontinuation of the drug, )
+"negative myoclonus"	"is associated with use of"	"IFX"	
+
+(the presence of asterixis during infusion of imaging studies and the resolution of symptoms following the discontinuation of the drug, )
+"patient"	"be described"	
+
+(the resolution of symptoms following the discontinuation of the drug, )
+"negative myoclonus"	"is associated with use of"	"IFX"	
+
+(the resolution of symptoms following the discontinuation of the drug, )
+"Metamizol"	"potentiates morphine antinociception after"	"chronic treatment"	
+
+"Metamizol"	"potentiates constipation after"	"chronic treatment"	
+
+"Metamizol"	"potentiates"	"morphine antinociception"	
+
+"Metamizol"	"potentiates"	"constipation"	
+
+"combination"	"be useful for treatment of"	"chronic pain"	
+
+(These findings, )
+"combination"	"be"	"useful"	
+
+(These findings, )
+"Use of antithymocyte globulin"	"be optimal treatment of"	"D-penicillamine-induced aplastic anemia"	
+
+"Use of antithymocyte globulin"	"be"	"optimal treatment"	
+
+"GLEPP1 expression"	"be useful marker of"	"podocyte injury"	
+
+"GLEPP1 expression"	"be"	"useful marker"	
+
+"Bupropion"	"is"	"Zyban"	
+
+"potential toxic effects"	"be considered when prescribing it as"	"smoking cessation aid"	
+
+"patients"	"is"	"early cardiac infarction"	
+
+"high contrast images"	"be obtained in humans in"	"patients"	
+
+(The high image quality, )
+"high contrast images"	"be obtained in"	"humans"	
+
+(The high image quality, )
+"overgrowth of exencephalic neural tissue"	"causes altered distribution patterns of vessels"	"subsequent peripheral circulatory failure in QUANT_O_1 parts of exencephalic head leading to multiple modes of tissue reduction during transformation from exencephaly to anencephaly"	
+
+(These findings, )
+"subsequent peripheral circulatory failure in QUANT_S_1 parts of exencephalic head"	"be leading to multiple modes of tissue reduction during"	"transformation from exencephaly to anencephaly"	
+
+(These findings, )
+"subsequent peripheral circulatory failure in QUANT_S_1 parts of exencephalic head"	"be leading to multiple modes of"	"tissue reduction"	
+
+(These findings, )
+"overgrowth of exencephalic neural tissue"	"causes altered distribution patterns of"	"vessels"	
+
+(These findings, )
+"overgrowth of exencephalic neural tissue"	"causes altered distribution patterns of vessels"	"hemorrhaging"	
+
+"hemorrhaging"	"be leading to multiple modes of tissue reduction during"	"transformation from exencephaly to anencephaly"	
+
+"hemorrhaging"	"be leading to multiple modes of"	"tissue reduction"	
+
+"fibrin sealants"	"be containing tranexamic acid in"	"rats"	
+
+"FS"	"be containing"	"tAMCA for surgery within to CNS"	
+
+"FS"	"be containing tAMCA for"	"surgery close"	
+
+"use of FS containing tAMCA for surgery within to CNS"	"pose substantial risk to"	"patient"	
+
+"use of FS containing tAMCA for surgery close"	"pose substantial risk to"	"patient"	
+
+"use of FS containing tAMCA for surgery within to CNS"	"pose"	"substantial risk"	
+
+"use of FS containing tAMCA for surgery close"	"pose"	"substantial risk"	
+
+"End-stage renal disease after orthotopic liver transplantation using calcineurin-based immunotherapy"	"is"	"ESRD"	
+
+"orthotopic liver transplantation using calcineurin-based immunotherapy"	"is"	"OLTX"	
+
+"orthotopic liver transplantation"	"be using"	"calcineurin-based immunotherapy"	
+
+"New strategies for long-term immunosuppression"	"be needed to decrease"	"complication"	
+
+"risk of myocardial infarction"	"was similar among"	"women"	
+
+"risk of myocardial infarction"	"was"	"similar"	
+
+"women"	"used"	"oral contraceptives"	
+
+"they"	"had"	"prothrombotic mutation"	
+
+"WR-2721"	"is"	"amifostine"	
+
+"Eastern Cooperative Oncology Group Study"	"is"	"E8188"	
+
+"tumor-protective effect to normal tissues"	"was observed with"	"addition of amifostine to cisplatin in trial"	
+
+"reduced toxicity"	"was observed with"	"addition of amifostine to cisplatin in trial"	
+
+"Combined antiretroviral therapy"	"causes"	"cardiomyopathy"	
+
+"Combined antiretroviral therapy"	"elevates plasma lactate in"	"transgenic AIDS mice"	
+
+"cumulative HAART"	"caused mitochondrial CM with elevated LA in"	"AIDS transgenic mice"	
+
+(Results, )
+"cumulative HAART"	"caused"	"mitochondrial CM"	
+
+(Results, )
+"Intravenous administration of prochlorperazine by 15-minute infusion"	"does affect incidence of"	"akathisia"	
+
+"Intravenous administration of prochlorperazine by 2-minute bolus"	"does affect incidence of"	"akathisia"	
+
+"efficacy of prochlorperazine in treatment of headache"	"did appear to be affected by rate of"	"administration"	
+
+"efficacy of prochlorperazine in treatment of nausea"	"did appear to be affected by rate of"	"administration"	
+
+"QUANT_S_1 formal statistical comparisons"	"were made"	
+
+"3-week sulphasalazine syndrome"	"strikes"	"again"	
+
+"clinico-pathological features of case"	"bore hallmarks of so-called 3-week sulphasalazine syndrome"	"rare"	
+
+(It, )
+"clinico-pathological features of case"	"bore hallmarks of"	"so-called 3-week sulphasalazine syndrome"	
+
+(It, )
+"clinico-pathological features of case"	"bore hallmarks of so-called 3-week sulphasalazine syndrome"	"often fatal immunoallergic reaction to sulphasalazine"	
+
+"chronology"	"bore hallmarks of so-called 3-week sulphasalazine syndrome"	"rare"	
+
+"chronology"	"bore hallmarks of so-called 3-week sulphasalazine syndrome"	"often fatal immunoallergic reaction to sulphasalazine"	
+
+"This"	"have been side effect of"	"citalopram"	
+
+"This"	"have been"	"side effect"	
+
+"it"	"remitted with redistribution of"	"doses"	
+
+"better controlled regimen for administering vincristine"	"is recommended"	
+
+"better controlled regimen for administering intrathecal chemotherapy"	"is recommended"	
+
+"urinary bladder retention"	"be leading to"	"renal pelvocalyceal dilatation mimicking hydronephrosis as result of continuous infusion of fentanyl"	
+
+"renal pelvocalyceal dilatation"	"be mimicking hydronephrosis as"	"result of continuous infusion of fentanyl"	
+
+"QUANT_S_1 cases of urinary bladder retention leading to renal pelvocalyceal dilatation mimicking hydronephrosis as result of continuous infusion of fentanyl"	"are reported"	"Here"	
+
+"QUANT_S_1 cases of urinary bladder retention leading to renal pelvocalyceal dilatation mimicking hydronephrosis as result of continuous infusion of fentanyl"	"are reported"	
+
+"data"	"underline"	"need to maximize therapeutic ratio with respect to TDP in potential development candidates"	
+
+"need"	"be maximize therapeutic ratio with"	"respect to TDP in potential development candidates"	
+
+"need"	"be maximize therapeutic ratio with"	"respect to TDP"	
+
+"underlying mechanism of withdrawal-emergent RS in present case"	"have been related to pharmacological profile of risperidone"	"suggesting pathophysiologic influence of serotonin system in development of RS"	
+
+"underlying mechanism of withdrawal-emergent RS in present case"	"have been related to pharmacological profile of"	"risperidone"	
+
+"underlying mechanism of withdrawal-emergent RS in present case"	"be suggesting"	"pathophysiologic influence of serotonin system in development of RS"	
+
+"risperidone"	"is"	"serotonin-dopamine antagonist"	
+
+"Liver disease"	"be caused by"	"propylthiouracil"	
+
+"This"	"is addition to list of"	"drugs"	
+
+"This"	"is"	"addition"	
+
+"list of drugs"	"be considered in evaluation of"	"chronic liver disease"	
+
+"Allograft function"	"improved"	"rapidly"	
+
+"Allograft function"	"returned to baseline after"	"stopping drug"	
+
+"Allograft function"	"returned to"	"baseline"	
+
+"antisense oligodeoxynucleotide"	"be targeting"	"sigma1 receptors"	
+
+"Conformationally restricted analogs of BD1008"	"produce anti-cocaine effects in"	"mice"	
+
+"Conformationally restricted analogs of antisense oligodeoxynucleotide targeting sigma1 receptors"	"produce anti-cocaine effects in"	"mice"	
+
+"functional antagonism of sigma receptors"	"is capable of attenuating number of"	"cocaine-induced behaviors"	
+
+(the data, )
+"functional antagonism of sigma receptors"	"is"	"capable"	
+
+(the data, )
+"case"	"highlights need for"	"adequate labelling"	
+
+"case"	"highlights"	"need for regulation of such products"	
+
+"immunologic injury"	"is"	"endothelial injury"	
+
+"repeated endothelial injury including immunologic injury"	"be cause of"	"lesion"	
+
+(We, )
+"repeated endothelial injury including immunologic injury"	"be cause in"	"allografts"	
+
+(We, )
+"repeated endothelial injury including immunologic injury"	"be"	"cause"	
+
+(We, )
+"repeated endothelial injury including immunologic injury"	"be cause in"	"native kidneys"	
+
+"Particular attention"	"be paid to patients with"	"hyperthymic temperament"	
+
+"patients with hyperthymic temperament"	"have greater risk of"	"mood switches"	
+
+"events"	"be Taken"	"together"	
+
+"events"	"establish GSPE 's abundant bioavailability"	"Taken together"	
+
+"events"	"establish"	"GSPE 's abundant bioavailability"	
+
+"GSPE"	"has"	"abundant bioavailability"	
+
+"power"	"be defend multiple target organs from toxic assaults induced by"	"structurally diverse entities in vivo"	
+
+"power"	"be defend multiple target organs from toxic assaults induced by"	"functionally different entities in vivo"	
+
+"toxic assaults"	"be induced by structurally diverse entities"	"in vivo"	
+
+"toxic assaults"	"be induced by functionally different entities"	"in vivo"	
+
+"toxic assaults"	"be induced by"	"structurally diverse entities"	
+
+"toxic assaults"	"be induced by"	"functionally different entities"	
+
+"Patients with renal insufficiency"	"be given"	"regimen"	
+
+"Brain natriuretic peptide"	"is predictor of"	"anthracycline-induced cardiotoxicity"	
+
+"Brain natriuretic peptide"	"is"	"predictor"	
+
+"BNP"	"be useful as early indicator of"	"anthracycline-induced cardiotoxicity"	
+
+
+"BNP"	"be"	"useful"	
+
+
+"BNP"	"be useful as indicator of"	"anthracycline-induced cardiotoxicity"	
+
+
+"BNP"	"be useful as sensitive indicator of"	"anthracycline-induced cardiotoxicity"	
+
+"Calcineurin-inhibitor"	"induced"	"pain syndrome"	
+
+"pain syndrome"	"is"	"CIPS"	
+
+"Incorrect diagnosis of syndrome"	"lead to"	"significant reduction of life quality in patients suffering from CIPS"	
+
+"patients"	"be suffering from"	"CIPS"	
+
+"case report"	"highlights"	"fact should be used with extreme caution in setting"	
+
+"angiotensin QUANT_S_1 receptor antagonist losartan"	"cause"	"serious unexpected complications in patients with renovascular disease"	
+
+"angiotensin QUANT_S_1 receptor antagonist losartan"	"be used with extreme caution in"	"setting"	
+
+"Pericarditis"	"be initial manifestation of"	"drug-induced vasculitis attributable to propylthio"	
+
+"Pericarditis"	"be"	"initial manifestation"	
+
+"QUANT_S_1 mouse lines"	"be selected for"	"differential sensitivities to beta-carboline-induced seizures"	
+
+"QUANT_S_1 mouse lines selected for differential sensitivities to beta-carboline-induced seizures"	"are"	"sensitive"	
+
+"QUANT_S_1 mouse lines selected for differential sensitivities to beta-carboline-induced seizures"	"are sensitive to QUANT_O_1 pharmacological effects of"	"other GABA"	
+
+"GABA"	"is"	"A"	
+
+"Results"	"be presented"	"here"	
+
+"differential sensitivities of BS lines to beta-CCM"	"be extended to diazepam"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of BS lines to beta-CCM"	"be extended"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to diazepam"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to diazepam suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to picrotoxin"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to picrotoxin suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to pentylenetetrazol"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended to pentylenetetrazol suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of lines to beta-CCM"	"be extended suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of BS lines to beta-CCM"	"be extended to"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+(Results presented here, )
+"differential sensitivities of BS lines to beta-CCM"	"be extended to suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of BS lines to beta-CCM"	"be extended suggesting genetic selection of"	"resistance"	
+
+(Results presented here, )
+"differential sensitivities of BS lines to beta-CCM"	"be extended to diazepam suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BS lines to beta-CCM"	"be extended to picrotoxin"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BS lines to beta-CCM"	"be extended to picrotoxin suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BS lines to beta-CCM"	"be extended to pentylenetetrazol"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BS lines to beta-CCM"	"be extended to pentylenetetrazol suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to diazepam"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to diazepam suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to picrotoxin"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to picrotoxin suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to pentylenetetrazol"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended to pentylenetetrazol suggesting genetic selection of"	"resistance"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended"	"suggesting genetic selection of general sensitivity to QUANT_O_1 ligands of GABA receptor"	
+
+"differential sensitivities of BR lines to beta-CCM"	"be extended suggesting genetic selection of"	"resistance"	
+
+"patient"	"be treated with angiotensin converting enzyme inhibitor for"	"chronic hypertension"	
+
+"tizanidine"	"is"	"antihypertensive agent"	
+
+"possible interaction of tizanidine"	"be kept in"	"mind"	
+
+"possible interaction of other antihypertensive agents"	"be kept in"	"mind"	
+
+"prescribing therapy"	"be treat hypertension in"	"such patients"	
+
+"prescribing therapy"	"be treat spasticity in"	"such patients"	
+
+"Additional studies of murine strains"	"be useful for investigating genetic influences on"	"cocaine-induced seizures"	
+
+"Additional studies of murine strains"	"be"	"useful"	
+
+"Further research"	"is needed to delineate frequency of"	"troubling side effect"	
+
+"Further research"	"is needed"	"best to treat it"	
+
+"observation"	"be tested in studies of"	"prolonged ketamine administration"	
+
+"Patients"	"are switched from cyclosporine to"	"tacrolimus"	
+
+"Patients"	"are switched from cyclosporine to"	"vice versa"	
+
+"Patients"	"are switched from"	"cyclosporine"	
+
+"Patients"	"be monitored for signs of"	"recurrent TMA"	
+
+"Patients"	"be monitored for"	"symptoms"	
+
+"children"	"has"	"fractures"	
+
+"emergency department"	"is"	"environment"	
+
+"proper one-on-one monitoring"	"is used"	"emergency department"	
+
+"Ketamine should only be used in emergency department"	"are involved in care of"	"patient"	
+
+"Ketamine"	"be used in environment such as"	"emergency department"	
+
+"fits"	"ceased within QUANT_R_1 hours of administering intramuscular pyridoxine"	"suggesting aetiology of pyridoxine deficiency secondary to isoniazid medication"	
+
+"fits"	"ceased"	"suggesting aetiology of pyridoxine deficiency secondary to isoniazid medication"	
+
+"results"	"do confirm"	
+
+"results"	"exclude neuroprotective property of"	"nimodipine"	
+
+"group"	"did"	"Contrary to published literature reasonably well"	
+
+"group"	"did"	"Contrary to published literature with aggressive management"	
+
+"group"	"did"	"Contrary to published literature"	
+
+"present study"	"demonstrates gender differences in development of apomorphine-induced aggressive behavior In"	"conclusion"	
+
+"present study"	"demonstrates"	"gender differences in development of apomorphine-induced aggressive behavior"	
+
+"female rats"	"do fill"	"validation criteria for use in method"	
+
+"Differential effects of systemically administered ketamine on dynamic hyperalgesia"	"be induced by intradermal capsaicin in"	"humans"	
+
+"Differential effects of lidocaine on dynamic and static hyperalgesia"	"be induced by intradermal capsaicin in"	"humans"	
+
+"Differential effects of systemically administered ketamine on static hyperalgesia"	"be induced by intradermal capsaicin in"	"humans"	
+
+"QUANT_S_1 types of hyperalgesia"	"are mediated by"	"separate mechanisms"	
+
+(The differential effects of ketamine on static hyperalgesia, )
+"differential effects of ketamine on static hyperalgesia"	"suggest"	"have distinct pharmacology"	
+
+"QUANT_S_1 types of hyperalgesia"	"are mediated by"	"separate mechanisms"	
+
+(The differential effects of lidocaine on static and dynamic hyperalgesia, )
+"differential effects of lidocaine on static and dynamic hyperalgesia"	"suggest"	"have distinct pharmacology"	
+
+"QUANT_S_1 types of hyperalgesia"	"are mediated by"	"separate mechanisms"	
+
+(The differential effects of ketamine on dynamic hyperalgesia, )
+"differential effects of ketamine on dynamic hyperalgesia"	"suggest"	"have distinct pharmacology"	
+
+"QUANT_S_1 types of hyperalgesia"	"have"	"distinct pharmacology"	
+
+"higher risk observed for newer OC in other studies"	"be result of"	"inadequate comparisons of pill users with different patterns of pill use"	
+
+(These analyses, )
+"higher risk observed for newer OC in other studies"	"be"	"result"	
+
+(These analyses, )
+"higher risk"	"be observed for newer OC in"	"other studies"	
+
+(These analyses, )
+"clonidine"	"has"	"effects on cardiac rate in infant rats"	
+
+"clonidine"	"has effects on"	"ultrasound production"	
+
+"ultrasound production"	"is acoustic by-product of"	"physiological maneuver"	
+
+"ultrasound production"	"is"	"acoustic by-product"	
+
+"physiological maneuver"	"compensates for clonidine 's detrimental effects on"	"cardiovascular function"	
+
+"clonidine"	"has detrimental effects on"	"cardiovascular function"	
+
+"central tachycardia of bromocriptine"	"appears to predominate in"	"normal conscious rats"	
+
+(They, )
+"central tachycardia of bromocriptine"	"appears to"	"predominate"	
+
+(They, )
+"central tachycardia of bromocriptine"	"appears in"	"normal conscious rats"	
+
+(They, )
+"central tachycardia of bromocriptine"	"appears"	
+
+(They, )
+"central tachycardia of bromocriptine"	"appears to mask in"	"normal conscious rats"	
+
+"central tachycardia of bromocriptine"	"appears to"	"mask"	
+
+"Na"	"is"	"K"	
+
+"recovery of blood pressure"	"be control"	"values"	
+
+"extrusion of Na"	"was normalized as revealed by restoration of ATPase activity After"	"recovery of blood pressure to control values"	
+
+"extrusion of from cardiac cells"	"was normalized as revealed by restoration of ATPase activity After"	"recovery of blood pressure to control values"	
+
+"extrusion of Na"	"was normalized as"	"revealed by restoration of ATPase activity"	
+
+"extrusion of from cardiac cells"	"was normalized as"	"revealed by restoration of ATPase activity"	
+
+"Na"	"is"	"K"	
+
+"human erythrocytes"	"be induced by"	"tamoxifen"	
+
+"Hemolysis of human erythrocytes induced by tamoxifen"	"is related to disruption of"	"membrane structure"	
+
+"membrane leakage"	"is final stage of"	"cytotoxicity"	
+
+"membrane leakage"	"is"	"final stage"	
+
+"disruption of structural characteristics of biomembranes by TAM"	"contribute to multiple mechanisms of"	"anticancer action"	
+
+"its"	"has"	"anticancer action"	
+
+"Test conditions"	"influence"	"response to drug challenge in rodents"	
+
+"implications of findings"	"are discussed with particular emphasis upon conducting psychopharmacological challenge tests in"	"rodents"	
+
+"implications of findings"	"are discussed with"	"particular emphasis"	
+
+"Warfarin-induced artery calcification"	"is accelerated by"	"growth"	
+
+"Warfarin-induced artery calcification"	"is accelerated by"	"vitamin"	
+
+"Gla"	"is"	"matrix"	
+
+"gamma-carboxyglutamate residues of Gla protein"	"are required for function as"	"calcification inhibitor"	
+
+"its"	"has function as"	"calcification inhibitor"	
+
+"they"	"are required for accumulation at"	"calcification sites"	
+
+"its"	"has accumulation at"	"calcification sites"	
+
+"selective dopamine D4 receptor antagonist"	"is"	"NRA0160"	
+
+"NRA0160"	"have unique antipsychotic activities without"	"liability of motor side effects typical of classical antipsychotics"	
+
+(These findings, )
+"NRA0160"	"have"	"unique antipsychotic activities"	
+
+(These findings, )
+"New chemotherapy combinations with higher activity"	"are needed for elderly patients with"	"advanced NSCLC"	
+
+"New chemotherapy combinations with lower toxicity"	"are needed for elderly patients with"	"advanced NSCLC"	
+
+---------------------------------------------------------------------------
+JavaException                             Traceback (most recent call last)
+<ipython-input-56-1aff50dc1a5d> in <module>
+     49 for i in ss:
+     50   sentence=i
+---> 51   minie = MinIE(String(sentence), parser, 2)
+     52 
+     53 # Print out the extrations
+
+jnius/jnius_export_class.pxi in jnius.JavaClass.__init__()
+
+jnius/jnius_export_class.pxi in jnius.JavaClass.call_constructor()
+
+jnius/jnius_utils.pxi in jnius.check_exception()
+
+JavaException: JVM exception occurred: java.lang.NullPointerException
