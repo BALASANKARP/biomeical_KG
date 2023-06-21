@@ -21,6 +21,8 @@ extracting relation triples
 
 ![image](https://github.com/BALASANKARP/biomeical_KG/assets/83856064/12de4ec3-9762-45a7-878d-ec3333ab5d98)
 
+data tripplets for neo4j GraphXr input :justttxt.txt
+
 
 
 
