@@ -15,9 +15,12 @@ extracting relation triples
 
 ![image](https://github.com/BALASANKARP/biomeical_KG/assets/83856064/aad728a4-47cf-424e-9de4-c10c5438de5a)
 
-![image](https://github.com/BALASANKARP/biomeical_KG/assets/83856064/6c1d3cc9-88af-4317-b001-c09db88afa8e)
+
 
 ![image](https://github.com/BALASANKARP/biomeical_KG/assets/83856064/d5f6cb25-4bfa-41c1-8df7-c35dc7d49045)
+
+![image](https://github.com/BALASANKARP/biomeical_KG/assets/83856064/12de4ec3-9762-45a7-878d-ec3333ab5d98)
+
 
 
 
